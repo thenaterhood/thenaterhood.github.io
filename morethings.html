@@ -23,19 +23,21 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Nate Levesque</h1>
-                                                <p>I'm a software engineer in training. I expect to graduate in Spring 2016 with a degree in Software Engineering, and a minor in Computer Engineering. I enjoy taking ideas and turning them into useful applications with high-quality, maintainable, object-oriented code. In my free time I like learning new things and developing new hobbies, run long distance, and spend time outdoors.</p>
-                                                <p>One of the awesome things I'm currently working on is <span id="showcase-name"></span>, <span id="showcase-desc"></span>.<p>
-						<nav>
+						<h1>More Things</h1>
+                                                <p>So you want to see more, eh? Here's everything I have to offer.</p>
+                                                <nav>
 							<ul>
 								<li><a href="https://linkedin.com/in/thenaterhood" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 								<li><a href="http://blog.thenaterhood.com" class="icon fa-rss"><span class="label">Blog</span></a></li>
 								<li><a href="http://medium.com/@thenaterhood" class="icon fa-medium"><span class="label">Medium</span></a></li>
 								<li><a href="https://github.com/thenaterhood" class="icon fa-github"><span class="label">Github</span></a></li>
 								<li><a href="https://careers.stackoverflow.com/thenaterhood" class="icon fa-stack-overflow"><span class="label">StackOverflow</span></a></li>
-                                                                <li><a href="morethings.html" class="icon fa-plus"><span class="label">More</span></a></li>
+                                                                <li><a href="https://twitter.com/thenaterhood" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                                                                <li><a href="https://plus.google.com/+NateLevesque" class="icon fa-google"><span class="label">Google+</span></a></li>
+                                                                <li><a href="http://www.google.com/recaptcha/mailhide/d?k=01IlSUddP8u2W2uex3mqRCNw==&c=7kPbBTw9KPWPwtHnqBtTdgAoYqGYvdmWLrQHemAePOI=" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+                                                                <li><a href="https://www.strava.com/athletes/4612867" class="icon fa-heartbeat"><span class="label">Google+</span></a></li>
 							</ul>
-						</nav>
+                                                </nav>
 					</header>
 
 				<!-- Footer -->
@@ -51,33 +53,6 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-                <script type="text/javascript">
-function showcaseProject() {
-        console.log('derp');
-        var projects = [
-                {
-                        name: 'heartbeat',
-                        desc: 'a minimalist tool to notify you when your server breaks',
-                        link: 'https://github.com/thenaterhood/heartbeat',
-                },
-
-                {
-                        name: 'todayinmy.city',
-                        desc: 'a site to tell you about what\'s going on near you',
-                        link: 'http://todayinmy.city',
-                }
-        ];
-
-        var randomItem = projects[Math.floor(Math.random()*projects.length)];
-console.log('derp');
-document.getElementById("showcase-name").innerHTML = "<a href='" + randomItem.link + "'>" + randomItem.name + "</a>";
-        document.getElementById('showcase-desc').innerHTML = randomItem.desc;
-        document.getElementById('showcase-link').innerHTML = randomItem.link;
-}
-
-showcaseProject();
-
-                </script>
 
 	</body>
 </html>
