@@ -1,7 +1,8 @@
 ---
 name: About
-layout: default
+layout: strata
 ---
+
 About
 ==========
 

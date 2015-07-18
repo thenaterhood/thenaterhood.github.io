@@ -1,6 +1,6 @@
 ---
 name: Projects
-layout: default
+layout: strata
 ---
 Projects
 =============
