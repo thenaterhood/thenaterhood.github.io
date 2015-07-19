@@ -10,3 +10,6 @@ permalink: "/blog/read/:year.:month.:day.htm"
 
 markdown: rdiscount
 pygments: true
+
+gems:
+        - jekyll-sitemap
