@@ -1,5 +1,5 @@
 ---
-name: Projects
+title: Projects
 layout: strata
 ---
 Projects
