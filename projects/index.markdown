@@ -2,7 +2,7 @@
 title: Projects
 layout: strata
 ---
-Projects
+Notable Projects
 =============
 
 This page provides a list of some of my more notable projects. It is not an exhaustive list of what I've worked on.
@@ -14,11 +14,13 @@ Disclaimer: I assume no responsibility for the outcome of using any of the softw
 Projects I've Contributed To
 ----------------------------
 * The Linux Kernel - submitted a patch that resolved an issue with generating device identifiers in the legacy AMD Lance Ethernet driver.
+* [RITlug](http://ritlug.github.io) - worked on open sourcing and documenting RITlug's processes.
 * [RIT Map](http://ritmap.github.io/) - a map of RIT's most interesting locations. Submitted locations, project suggestions, and a brief site design.
-* [Browser Exploitation Framework (BEEF)](https://github.com/beefproject/beef) - Submitted a patch to the installer so a missing local configuration file could fall back onto a system one instead of failing.
+* [TourTrak](http://github.com/tourtrak) - the official app and server for "The Great Five Boro Bike Tour" in New York City, attended by over 32,000 riders.
 
 Linux & Linux-related
 ---------------------
+* [Gscreenshot](https://github.com/thenaterhood/gscreenshot) - a simple GUI frontend to the scrot screenshooter, adopted from a legacy project. Available in the ArchLinux User Repository and as the default screenshoooter on SparkyLinux.
 * [Heartbeat](https://github.com/thenaterhood/heartbeat) - a minimalist server monitoring utility that provides a detectable network "heartbeat" and that is capable of sending notifications for system problems.
 * [Shellzilla](https://github.com/thenaterhood/shellzilla) - a miscellaneous collection of possibly-useful Linux shell scripts.
 * [dotfiles](https://github.com/thenaterhood/dotfiles) - Version controlled Linux configuration files, based on ArchLinux but not limited to it.
@@ -26,6 +28,7 @@ Linux & Linux-related
 TI Calculator, TI-Basic, & related utilities
 ---------------------------------------------
 * [Basically, TI-Basic](https://github.com/thenaterhood/basically-ti-basic) - A project to make working with TI-Basic a little more pleasant. Decompiles and compiles TI-Basic files. Written in Python
+* 
 
 Raspberry Pi
 ------------
@@ -35,4 +38,4 @@ Raspberry Pi
 Web Apps
 ----------
 * [Thenaterweb](https://github.com/thenaterhood/thenaterweb) - a simple web framework, written fully in PHP from the ground up.
-* [Today In My City](http://todayinmy.city) - A simple web application (javascript/jquery based) that pulls the current location and shows the weather and local events.
+* [Today In My City](http://todayinmy.city) - A simple web application (javascript/jquery based) that pulls the current location and shows the weather and local meetup events.
