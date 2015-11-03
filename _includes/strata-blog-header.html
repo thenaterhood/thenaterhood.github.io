@@ -1,4 +1,8 @@
-<header id="header">
+<header id="header"
+    {% if page.head-image %}
+        style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
+    {% endif %}
+        >
         <a href="#" class="image avatar"><img src="/images/avatar.jpg" alt="" /></a>
                                 <h1><strong>The Philosophy of Nate</strong></h1>
                                 <span id="nav">
