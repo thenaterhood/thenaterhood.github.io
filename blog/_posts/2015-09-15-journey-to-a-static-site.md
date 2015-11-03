@@ -1,6 +1,7 @@
 ---
 title: Journey to a Static Site
 layout: post
+head-image: /images/posts/web-page-cursor.png
 ---
 
 For the longest time, I was enamored by the idea of having a dynamic site. Everything remotely dynamic on my site was powered by external services such as Disqus or Blogger. Despite that, I imagined I would eventually come up with some cool, dynamic content to put on my site and that I should pre-emptively fill that void if and when I would ever need it. To fill this imaginary need I ended up building my own PHP web framework, complete with its own (really terrible) database layer. I learned a lot while doing it so it was a worthwhile project and it even worked fairly well for a while. Eventually though, it became too large, and debatably too broken of a project to continue working on alone, especially with much better frameworks out there.
