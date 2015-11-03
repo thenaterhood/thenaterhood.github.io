@@ -3,7 +3,7 @@ layout: post
 author: Nate Levesque
 date: 2015-11-02
 title: Taking Time Off From Software Engineering
-head-image: /images/posts/circuit-trace.jpg
+head-image: circuit-trace.jpg
 ---
 
 A lot of us in the software field live, breathe, and even dream software. We love what we do so we surround ourselves
