@@ -9,7 +9,7 @@ paginate_path: "/blog/archive-:num"
 permalink: "/blog/read/:year.:month.:day.htm"
 
 markdown: rdiscount
-pygments: true
+highligher: pygments
 
 gems:
         - jekyll-sitemap
