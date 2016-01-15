@@ -18,10 +18,10 @@
 			{% elsif page.head-image contains '/' %}
 							{{ site.url }}{{ page.head-image }}
 			{% else %}
-							{{ site.url }}images/posts/{{ page.head-image }}
+							{{ site.url }}/images/posts/{{ page.head-image }}
 			{% endif %}
 		{% else %}
-			{{ site.url }}images/og-default.png
+			{{ site.url }}/images/og-default.png
 		{% endif %}
 		">
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
