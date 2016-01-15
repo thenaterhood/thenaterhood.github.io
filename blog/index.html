@@ -2,13 +2,23 @@
 title: The Philosophy of Nate
 layout: strata-blog
 ---
+<link rel="stylesheet" href="/assets/css/cards.css" />
 
 {% for post in paginator.posts %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<h4>{{ post.date | date_to_long_string }}</h4>
-<p>
-{{ post.content | truncate: 1000 }} <a href="{{ post.url }}">continue reading</a>
-</p>
+<div class="card-wrapper">
+    		<div class="card radius shadowDepth1">
+    			<div class="card__content card__padding">
+    				<div class="card__meta">{{ post.date | date_to_long_string }}
+    				</div>
+    				<article class="card__article">
+	    				<h3 class="card__title"><a class="card" href="{{ post.url }}">{{ post.title }}</a></h3>
+	    				{{ post.content | truncate: 1000 }}
+	    			</article>
+            <a href="{{ post.url }}">continue reading</a>
+    			</div>
+  </div>
+</div>
+
 {% endfor %}
 
 <span>
@@ -34,5 +44,3 @@ layout: strata-blog
     </p>
     {% endif %}
 </span>
-
-
