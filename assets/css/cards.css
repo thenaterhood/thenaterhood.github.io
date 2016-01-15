@@ -15,8 +15,8 @@ h3.card__title {
 .card-wrapper {
 	max-width: 1300px;
 	margin: 12px auto;
-	padding-left: 1em;
-	padding-right: 1em;
+	margin-left: -1.38em;
+	margin-right: -1.38em;
 }
 
 /**
