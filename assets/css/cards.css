@@ -1,0 +1,73 @@
+/** CSS for cards based on code from http://codepen.io/mithicher/pen/azQKNN/
+/**
+ * Basics Styles
+ */
+
+a.card {
+	text-decoration: none;
+}
+
+h3.card__title {
+	line-height: 1.2;
+	margin-bottom: 1.6rem;
+}
+
+.card-wrapper {
+	max-width: 1300px;
+	margin: 12px auto;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+/**
+ * Helpers
+ */
+.border-tlr-radius {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+}
+
+.radius { border-radius: 2px; }
+
+.padding-tb { padding-top: 1.6rem; padding-bottom: 1.6rem;}
+
+.shadowDepth0 { box-shadow: 0 1px 3px rgba(0,0,0, 0.12); }
+
+.shadowDepth1 {
+   box-shadow:
+  		0 3px 9px rgba(0,0,0, 0.12),
+    	0 3px 6px rgba(0,0,0, 0.24),
+}
+
+/**
+ * Card Styles
+ */
+
+.card {
+	background-color: #fff;
+}
+
+.card__padding {
+	padding: 1.6rem;
+}
+
+.card__content {
+	position: relative;
+}
+
+/* card article */
+.card__article a {
+	text-decoration: none;
+}
+	.card__article a:hover {
+	}
+
+/* card action */
+.card__action {
+	overflow: hidden;
+	padding-right: 1.6rem;
+	padding-left: 1.6rem;
+	padding-bottom: 1.6rem;
+}
+
+.card__author {}
