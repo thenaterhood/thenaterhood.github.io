@@ -17,31 +17,31 @@
 	};
 
 	skel.breakpoints({
-		xlarge: '(max-width: 1800px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)',
-		xsmall: '(max-width: 480px)'
+		xlarge: "(max-width: 1800px)",
+		large: "(max-width: 1280px)",
+		medium: "(max-width: 980px)",
+		small: "(max-width: 736px)",
+		xsmall: "(max-width: 480px)"
 	});
 
 	$(function() {
 
 		var $window = $(window),
-			$body = $('body'),
-			$header = $('#header');
+			$body = $("body"),
+			$header = $("#header");
 
 		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
+			$body.addClass("is-loading");
 
-			$window.on('load', function() {
-				$body.removeClass('is-loading');
+			$window.on("load", function() {
+				$body.removeClass("is-loading");
 			});
 
 		// Touch?
 			if (skel.vars.mobile) {
 
 				// Turn on touch mode.
-					$body.addClass('is-touch');
+					$body.addClass("is-touch");
 
 				// Height fix (mostly for iOS).
 					window.setTimeout(function() {
@@ -54,10 +54,10 @@
 			$('form').placeholder();
 
 		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
+			skel.on("+medium -medium", function() {
 				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
+					".important\\28 medium\\29",
+					skel.breakpoint("medium").active
 				);
 			});
 
@@ -66,26 +66,26 @@
 			// Parallax background.
 
 				// Disable parallax on IE (smooth scrolling is jerky), and on mobile platforms (= better performance).
-					if (skel.vars.browser == 'ie'
+					if (skel.vars.browser == "ie"
 					||	skel.vars.mobile)
 						settings.parallax = false;
 
 				if (settings.parallax) {
 
-					skel.on('change', function() {
+					skel.on("change", function() {
 
-						if (skel.breakpoint('medium').active) {
+						if (skel.breakpoint("medium").active) {
 
-							$window.off('scroll.strata_parallax');
-							$header.css('background-position', 'top left, center center');
+							$window.off("scroll.strata_parallax");
+							$header.css("background-position", "top left, center center");
 
 						}
 						else {
 
-							$header.css('background-position', 'left 0px');
+							$header.css("background-position", "left 0px");
 
-							$window.on('scroll.strata_parallax', function() {
-								$header.css('background-position', 'left ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
+							$window.on("scroll.strata_parallax", function() {
+								$header.css("background-position", "left " + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
 							});
 
 						}
@@ -97,20 +97,20 @@
 		// Main Sections: Two.
 
 			// Lightbox gallery.
-				$window.on('load', function() {
+				$window.on("load", function() {
 
-					$('#two').poptrox({
-						caption: function($a) { return $a.next('h3').text(); },
-						overlayColor: '#2c2c2c',
+					$("#two").poptrox({
+						caption: function($a) { return $a.next("h3").text(); },
+						overlayColor: "#2c2c2c",
 						overlayOpacity: 0.85,
-						popupCloserText: '',
-						popupLoaderText: '',
-						selector: '.work-item a.image',
+						popupCloserText: "",
+						popupLoaderText: "",
+						selector: ".work-item a.image",
 						usePopupCaption: true,
 						usePopupDefaultStyling: false,
 						usePopupEasyClose: false,
 						usePopupNav: true,
-						windowMargin: (skel.breakpoint('small').active ? 0 : 50)
+						windowMargin: (skel.breakpoint("small").active ? 0 : 50)
 					});
 
 				});
