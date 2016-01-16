@@ -50,7 +50,7 @@ layout: strata-blog
     <!-- -->
     {% endif %}
 
-    {% if paginator.next_page and paginator.next_page < paginator.total_pages %}
+    {% if paginator.next_page and paginator.next_page <= paginator.total_pages %}
 
     <p style="display:inline; margin-right: 10px;">
         <a href="/blog/archive-{{ paginator.next_page }}">Older Posts</a>
