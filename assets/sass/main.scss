@@ -3,6 +3,8 @@
 @import 'libs/mixins';
 @import url('font-awesome.min.css');
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import url("http://fonts.googleapis.com/css?family=Roboto+Slab:400,400italic");
+
 
 /*
 	Strata by HTML5 UP
@@ -48,6 +50,7 @@
 	body {
 		background: _palette(bg);
 
+
 		&.is-loading {
 			*, *:before, *:after {
 				@include vendor('animation', 'none !important');
@@ -91,6 +94,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: _font(family-slab);
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
 		line-height: 1em;
@@ -982,7 +986,7 @@
 
 	#main {
 		margin-left: $size-header-width;
-		max-width: 50em + $size-header-pad;
+		//max-width: 500em + $size-header-pad;
 		padding: ($size-header-pad * 2) $size-header-pad $size-header-pad $size-header-pad;
 		width: calc(100% - #{$size-header-width});
 
