@@ -19,7 +19,7 @@ Here's how this post came into existence:
 
 ```
 git checkout -b blogging-with-git
-vim blog/_posts/2016-02-blogging-with-git.md
+vim blog/_posts/2016-02-09-blogging-with-git.md
 # (write the post)
 git commit -m "Create blogging with git post" blog
 ```
