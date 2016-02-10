@@ -8,7 +8,6 @@ paginate_path: "/blog/archive-:num"
 #permalink: pretty
 permalink: "/blog/read/:year.:month.:day.htm"
 
-markdown: rdiscount
 highligher: pygments
 
 gems:
