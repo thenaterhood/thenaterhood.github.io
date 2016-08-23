@@ -13,3 +13,4 @@ highligher: pygments
 gems:
         - jekyll-sitemap
         - jekyll-paginate
+        - jekyll-feed
