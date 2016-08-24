@@ -6,6 +6,7 @@ pages:
   - gem install jekyll-sitemap
   - gem install jekyll-paginate
   - gem install jekyll-feed
+  - gem install jekyll-redirect-from
   - jekyll build -d public/
   artifacts:
     paths:
