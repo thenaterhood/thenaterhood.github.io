@@ -11,8 +11,22 @@ Requirements:
 * jekyll
 * jekyll-paginate
 * jekyll-sitemap
+* jekyll-redirect-to
+* jekyll-feed
 
 Once you have Ruby, the Jekyll packages are installable as gems.
+
+Building
+----------------------
+* Local: Use either `jekyll serve` or `jekyll build -d <some directory>`
+* Github Pages: Push the contents of the repository to a Github repository
+* Gitlab Pages: Push the contents of the repository to a Gitlab repository and
+check that the project settings have Gitlab's runners configured
+
+**If you clone this repository directly, please remove or update the Google
+Analytics ID found in _includes/ga-tracking.html**. You can also modify the
+tracking code to your heart's content to use another tracking system or none
+at all.
 
 Licenses
 ----------------------
@@ -33,6 +47,7 @@ under the CCA 3.0 license.
 [http://codepen.io/mithicher/pen/azQKNN/](http://codepen.io/mithicher/pen/azQKNN/)
 
 * Updated and reformatted HTML5 Up JavaScript
+* Update HTML5 Up CSS to use Google Fonts over HTTPS
 
 #### Jekyll Templates
 
