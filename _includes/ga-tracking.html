@@ -1,4 +1,12 @@
 <script>
+  {% if site.redirect_to_https %}
+    var proto = String.fromCharCode(104,116,116,112,115,58);
+    if (window.location.protocol != proto) {
+      window.location.href = proto + window.location.href.substring(window.location.protocol.length);
+    }
+  {% endif %}
+</script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
