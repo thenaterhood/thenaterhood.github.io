@@ -14,3 +14,21 @@ function populate_latest_gh_release(repo_name)
         repo_data);
     })
 }
+
+function run_outdated_content_alert(element_id, item_date, display)
+{
+    item_date = new Date(item_date);
+    let today = new Date();
+    // A little rough, but we're not worried about being
+    // totally exact here.
+    let one_day = 1000 * 60 * 60 * 24;
+    let one_year = 365 * one_day;
+    let diff = today.getTime() - item_date.getTime();
+
+    if (diff > 2*one_year) {
+        document.getElementById(element_id).style.display = display;
+        return true;
+    }
+
+    return false;
+}
