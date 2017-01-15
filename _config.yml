@@ -7,7 +7,7 @@ paginate: 10
 paginate_path: "/blog/archive-:num"
 #permalink: pretty
 permalink: "/blog/read/:year.:month.:day.htm/"
-redirect_to_https: no
+redirect_to_https: yes
 
 highligher: pygments
 
