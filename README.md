@@ -11,7 +11,7 @@ Requirements:
 * jekyll
 * jekyll-paginate
 * jekyll-sitemap
-* jekyll-redirect-to
+* jekyll-redirect-from
 * jekyll-feed
 
 Once you have Ruby, the Jekyll packages are installable as gems.
