@@ -3,6 +3,9 @@ blogname: "The Philosophy of Nate"
 description: ""
 
 url: "https://www.thenaterhood.com"
+# URL for open-graph things which appear not
+# to get along with https
+og_url: "http://www.thenaterhood.com"
 paginate: 10
 paginate_path: "/blog/archive-:num"
 #permalink: pretty
