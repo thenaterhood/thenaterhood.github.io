@@ -13,19 +13,10 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="/assets/css/main.css" />
                 <link rel="stylesheet" href="/assets/css/alert.css" />
-		<meta property="og:image" content="
-		{% if page.head-image %}
-			{% if page.head-image contains 'http://' %}
-							{{ page.head-image }}
-			{% elsif page.head-image contains '/' %}
-							{{ site.og_url }}{{ page.head-image }}
-			{% else %}
-							{{ site.og_url }}/images/posts/{{ page.head-image }}
-			{% endif %}
-		{% else %}
-			{{ site.og_url }}/images/og-default.png
-		{% endif %}
-		" />
+                {% if false %}
+                <!-- The whitespace has been removed from this section of code because it breaks open-graph URL parsing -->
+                {% endif %}
+		<meta property="og:image" content="{% if page.head-image %}{% if page.head-image contains 'http://' %}{{ page.head-image }}{% elsif page.head-image contains '/' %}{{ site.og_url }}{{ page.head-image }}{% else %}{{ site.og_url }}/images/posts/{{ page.head-image }}{% endif %}{% else %}{{ site.og_url }}/images/og-default.png{% endif %}" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body id="top">
