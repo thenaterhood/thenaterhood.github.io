@@ -1,0 +1,54 @@
+    <ul>
+<style type="text/css">
+@media only screen
+and (min-width : 1024px ){
+    .blog-related-li {
+        width: 50%;
+        float: left;
+        display: block;
+        font-size: 1.2em;
+        margin-bottom: 8px;
+    }
+
+    .blog-related-ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+        margin-bottom: 15px;
+    }
+    .blog-related {
+        text-align: left;
+    }
+    .blog-related-endspace {
+        height: 10px;
+    }
+}
+
+@media only screen
+and (max-width : 1023px ){
+    .blog-related-li {
+        font-size: 1.2em;
+        margin-bottom: 15px;
+    }
+    .blog-related-ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+    }
+    .blog-related {
+        text-align: center;
+    }
+    .blog-related-endspace {
+        height: 5px;
+    }
+}
+
+</style>
+    <h3 class="blog-related">More to See</h3>
+    <ul class="blog-related-ul blog-related">
+    {% for s in site.related_posts limit:4 %}
+    <li class="blog-related-li blog-related"><a href="{{s.url}}">{{s.title}}</a></li>
+    {% endfor %}
+    </ul>
+    <span class="blog-related-endspace">&nbsp;</span>
+    <br />
