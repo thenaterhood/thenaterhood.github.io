@@ -23,6 +23,7 @@ _Improve this page. Report errors and suggest improvements by using the contact 
 * _[Why Zero Rating Actually Sucks]({{site.url}}/blog/read/2017.01.16.htm/)_
 * _[The Problems with Tiered Internet]({{site.url}}/blog/read/2017.01.25.htm/)_
 * _[Net Neutrality and Your Voice]({{site.url}}/blog/read/2017.02.02.htm/)_
+* _[Innovation and a Neutral Internet]({{site.url}}/blog/read/2017.02.08.htm/)_
 
 ## Resources on the web
 - _[What is Net Neutrality - American Civil Liberties Union](https://www.aclu.org/feature/what-net-neutrality)_
