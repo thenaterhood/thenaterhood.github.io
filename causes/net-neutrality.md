@@ -1,10 +1,12 @@
 ---
 title: Net Neutrality Resources
 layout: strata
-head-image: world-network.jpg
+head-image: phone-laptop.jpg
 ---
 
 # What is Net Neutrality?
+Net Neutrality is one of the most important digital rights issues of our time. This is an issue that affects everyone - even those who do not work in the technology sector.
+
 Net Neutrality is the idea that all data on the Internet, regardless of who it comes from, its political affiliation, company, or who’s consuming it, should be treated the same way and should move at the same speed.
 
 Net neutrality is why you can find and access any information you want to. It is also why you can set up your own website (for yourself, for your business, or for anything else) for next to nothing, and still have it available to everyone online.
@@ -12,7 +14,9 @@ Net neutrality is why you can find and access any information you want to. It is
 # Why Should I Care?
 Net neutrality means that no matter what, you have the same access to information as everyone else. It also means that it's easy to make your own voice heard online no matter who you are or what your beliefs are.
 
-_Improve this page. Report errors and suggest improvements by using the contact links in the sidebar, or [by submitting an issue](https://gitlab.com/thenaterhood/thenaterhood.gitlab.io/issues)._
+Telecoms should not control what you can see - especially since they own their own media networks. Net neutrality makes sure they don't.
+
+_Improve this page. Fact check me, report errors, and suggest improvements [here]({{site.url}}/factcheck)._
 
 ## Articles on this site
 
