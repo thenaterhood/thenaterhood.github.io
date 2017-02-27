@@ -1,0 +1,23 @@
+- title: gscreenshot
+  url: "https://github.com/thenaterhood/gscreenshot"
+  version_provider: "github"
+  description: "gscreenshot is a simple application for taking screenshots, written in Python and Pygtk."
+  type: "Python"
+
+- title: heartbeat
+  url: "https://github.com/thenaterhood/heartbeat"
+  version_provider: "github"
+  description: "The core of Heartbeat is designed for asynchronous routing of information from producers (which can be anything) to handlers (which can also be anything). Heartbeat can be used for anything from monitoring a fleet of servers to developing an IoT system. The PubSub architecture in Heartbeat allows the same Heartbeat community to send information to both humans and other computers, without stepping on each others' toes."
+  type: "Python"
+
+- title: "Tell Me About Space"
+  url: "https://tellmeabout.space"
+  version_provider: false
+  description: "A web page that shows a random fact about space every time you visit."
+  type: "Javascript"
+
+- title: "TodayInMy.City"
+  url: "https://todayinmy.city"
+  version_provider: "github"
+  description: "A simple web application (javascript/jquery based) that pulls the current location and shows the weather and local meetup events."
+  type: "Javascript"

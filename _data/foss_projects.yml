@@ -1,0 +1,23 @@
+- title: Linux Kernel
+  url: "http://kernel.org"
+  version_provider: false
+  description: "Submitted a patch that resolved an issue with generating device identifiers in the legacy AMD Lance Ethernet driver."
+  type: "Linux"
+
+- title: RIT Linux Users Group
+  url: "http://ritlug.github.io"
+  version_provider: false
+  description: "Served two terms as organization president. Work included open-sourcing the club governance process and migrating to a more sustainable leadership model."
+  type: "Linux"
+
+- title: "RIT Map"
+  url: "http://ritmap.github.io"
+  version_provider: false
+  description: "A map of RIT's most interesting campus locations. Submitted points of interest and site design help."
+  type: "Local Interest"
+
+- title: "TourTrak"
+  url: "http://github.com/tourtrak"
+  version_provider: false
+  description: "Official app and server for \"The Great Five Boro Bike Tour\" in New York City, attended by over 32,000 riders. Contributed code as part of the RIT SE Senior Project course."
+  type: "Mobile (Cordova)"
