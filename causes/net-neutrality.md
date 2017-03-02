@@ -29,6 +29,7 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 * _[Net Neutrality and Your Voice]({{site.url}}/blog/read/2017.02.02.htm/)_
 * _[Innovation and a Neutral Internet]({{site.url}}/blog/read/2017.02.08.htm/)_
 * _[Your City Can Provide Better, Cheaper Internet]({{site.url}}/blog/read/2017.02.23.htm/)_
+* _[Protecting Net Neutrality with Regulation]({{site.url}}/blog/read/2017.03.01.htm/)_
 
 ## Resources on the web
 - _[What is Net Neutrality - American Civil Liberties Union](https://www.aclu.org/feature/what-net-neutrality)_
