@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Net Neutrality is being undermined
+title: How Net Neutrality is Being Undermined
 author: Nate Levesque
 head-image: web-page-cursor.png
 ---
