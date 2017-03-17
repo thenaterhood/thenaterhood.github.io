@@ -30,6 +30,7 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 * _[Innovation and a Neutral Internet]({{site.url}}/blog/read/2017.02.08.htm/)_
 * _[Your City Can Provide Better, Cheaper Internet]({{site.url}}/blog/read/2017.02.23.htm/)_
 * _[Protecting Net Neutrality with Regulation]({{site.url}}/blog/read/2017.03.01.htm/)_
+* _[How Net Neutrality is being undermined]({{site.url}}/blog/read/2017.03.16.htm/)_
 
 ## Resources on the web
 - _[What is Net Neutrality - American Civil Liberties Union](https://www.aclu.org/feature/what-net-neutrality)_
@@ -38,5 +39,3 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 - _[The Fight to Save Net Neutrality - savetheinternet.com, Presented By Freepress](http://www.savetheinternet.com/net-neutrality-resources)_
 - _[What Will a Non-Neutral Internet Really Be Like? - CBS MoneyWatch](http://www.cbsnews.com/news/what-will-a-non-neutral-net-really-be-like/)_
 - _[What is net neutrality and what does it mean for me? - USA Today](http://www.usatoday.com/story/tech/2015/02/24/net-neutrality-what-is-it-guide/23237737/)_
-
-
