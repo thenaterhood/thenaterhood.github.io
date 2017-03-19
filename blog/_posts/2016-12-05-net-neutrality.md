@@ -3,6 +3,7 @@ layout: post
 title: Explaining Net Neutrality
 author: Nate Levesque
 head-image: web-page-cursor.png
+tags: [net-neutrality]
 ---
 
 Net Neutrality is the idea that all data on the Internet, regardless of who it comes from, its political affiliation, company, or who's consuming it, should be treated the same way and should move at the same speed. We've enjoyed a mostly-neutral Internet for some time now, which is what has allowed the Internet to become an important means for moving information around the world. A neutral Internet is also the reason it's easy for new companies to get up and running online and find their customers. It's difficult to explain well in a short blog post the importance of a neutral Internet, so be sure to take a look at the links throughout for more information.

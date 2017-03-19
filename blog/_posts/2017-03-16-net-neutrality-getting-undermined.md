@@ -3,6 +3,7 @@ layout: post
 title: How Net Neutrality is Being Undermined
 author: Nate Levesque
 head-image: web-page-cursor.png
+tags: [net-neutrality]
 ---
 
 By paying for an Internet connection - almost any Internet connection - it's possible to get access to every piece of information and every viewpoint on Earth. It's also possible through that connection to publish your own views across the Internet for no extra cost. What comes with this are certain privacy protections from your ISP (Internet Service Provider), which is important given that your Internet provider can see most of the things you do online. However, none of these are guaranteed rights. The FCC has minimal powers to enforce net neutrality, [thanks to a previous rule change by Congress](http://www.internetsociety.org/publications/isp-column-april-2014-rip-net-neutrality) and currently calls net neutrality "a mistake." Service providers also have the ability to discourage the use of certain services through practices like zero-rating and data caps, which starts to limit your online world to that which your service provider approves of.

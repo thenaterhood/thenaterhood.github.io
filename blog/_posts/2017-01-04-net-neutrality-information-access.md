@@ -3,6 +3,7 @@ layout: post
 title: Net Neutrality and Access to Information
 author: Nate Levesque
 head-image: world-network.jpg
+tags: [net-neutrality]
 ---
 
 The Internet is a major source of information, providing digital outlets for nearly any information. Almost 40% of Americans get their news online, according to [a Pew Research study in 2016](http://www.pewresearch.org/fact-tank/2016/09/14/facts-about-the-changing-digital-news-landscape/), making the Internet a news source second only to television. In addition, a majority of adults happened to [get news from social media](http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/) - which is a problem because social media  provides only a curated view of the news. These statistics underscore the need for open access to news and information online. Limiting access to information - fake news is a different issue - makes it much more difficult to stay informed. Easy access to information is empowering.
@@ -16,5 +17,3 @@ Service providers already prioritize certain services over others through [Zero 
 Even if service providers don't go so far as to outright block things, they are able to slow them down. It turns out that it doesn't take much to deter people from visiting a website. [People are unwilling to wait for a page to load](https://blog.kissmetrics.com/loading-time/); a quarter of people visiting a page that takes 4 seconds to load will leave the page instead of waiting. Worse, there have already been issues with service providers slowing down certain services. In 2014, [Netflix found that Comcast was slowing down their streaming](http://money.cnn.com/2014/08/29/technology/netflix-comcast). Comcast claimed that streaming Netflix videos took too much bandwidth; however, Netflix is far from the only service that streams video.
 
 Research has shown that adults who have reliable access to the Internet [are more likely to try to learn more about their world](http://www.pewinternet.org/2016/03/22/adults-with-tech-access-tools-are-more-likely-to-be-lifelong-learners-and-rely-on-the-internet-to-pursue-knowledge/). Access to a wide variety of viewpoints is important for people to make informed and empowered choices. With the Internet becoming a standard tool for accessing those viewpoints, it's vital to make sure that Internet providers don't become gatekeepers for information.
-
-

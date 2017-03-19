@@ -3,6 +3,7 @@ layout: post
 title: Why Zero Rating Actually Sucks
 author: Nate Levesque
 head-image: phone-laptop.jpg
+tags: [net-neutrality]
 ---
 
 Everyone loves zero-rating, [which is when certain services don't count against your data limit](https://en.wikipedia.org/wiki/Zero-rating). Depending on your provider, anything from NFL games to Pokémon Go might be free to use without using up your data. There are two ways carriers do this: by having the company behind the zero-rated service pay for the data use, or by simply not counting it for promotional reasons. For us as users, it seems pretty good. Unfortunately, zero-rating brings a number of serious problems that hurt users in the longer term. It hurts competition between online services, limits and disincentivizes users from freely accessing the Internet, and costs more. It turns out that as great as it seems, the problems zero-rating has are big.

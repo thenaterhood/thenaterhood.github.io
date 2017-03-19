@@ -3,6 +3,7 @@ layout: post
 title: Net Neutrality and Your Voice
 author: Nate Levesque
 head-image: laptop-keyboard.jpg
+tags: [net-neutrality]
 ---
 
 The Internet gives everyone access to a platform through which they can share their views and make their voices heard. More than half of Americans use the Internet as their primary source of information, which highlights how important it is for people to be able to make their voices heard online. With [over 1.2 billion people sharing their voices on Facebook](http://newsroom.fb.com/company-info/) - not to mention other social networks and websites - it's clear that the Internet has made that more possible than ever before. However, access to the Internet is provided by an industry with a near monopoly on providing Internet service, [who claim their own rights to free speech](https://arstechnica.com/tech-policy/2015/10/net-neutrality-violates-the-first-amendment-according-to-one-isp/) when it comes to deciding what their customers have access to.

@@ -3,6 +3,7 @@ layout: post
 title: Innovation and a Neutral Internet
 author: Nate Levesque
 head-image: cellphone-graph.jpg
+tags: [net-neutrality]
 ---
 
 The debate on the role of net neutrality when it comes to innovation is subtle. Both pro and anti net-neutrality debates [tend to involve innovation, but from different angles](https://www.scientificamerican.com/article/the-net-neutrality-debate-in-2-minutes-or-less/). Internet providers are usually anti-neutrality with the claim that a neutral Internet stops them from charging more to move data, which would (in theory) prevent them from investing more into their networks. Large companies such as Google tend to be for net neutrality, because a non-neutral Internet would likely cost them more. The likes of Google, Facebook, Netflix and other huge online services grew and for now continue to grow in a neutral Internet. However, so do Internet providers, which [make far above what's considered a "good" profit margin for a business](https://www.technologyreview.com/s/510176/when-will-the-rest-of-us-get-google-fiber/).

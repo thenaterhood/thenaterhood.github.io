@@ -3,6 +3,7 @@ layout: post
 title: Your City Can Provide Better, Cheaper Internet
 author: Nate Levesque
 head-image: ethernet-cables.jpg
+tags: [net-neutrality]
 ---
 
 Municipal Internet (or, depending on the technology, "municipal fiber", or "municipal broadband") [is an Internet service provider run partly or entirely by by local governments - usually on a city or county level](https://en.wikipedia.org/wiki/Municipal_broadband). Being run with involvement from the local government means municipal Internet can be provided at a much lower cost, or in some cases even for free while being better tailored to the local community's needs. Areas that provide municipal Internet often are able to provide more equal access to the Internet and better connectivity. To top it off, areas that have built municipal networks have attracted high tech companies and have experienced local economic development, providing more value to the community.

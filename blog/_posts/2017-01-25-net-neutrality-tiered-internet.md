@@ -3,6 +3,7 @@ layout: post
 title: The Problems with Tiered Internet
 author: Nate Levesque
 head-image: brick-wifi-emblem.jpg
+tags: [net-neutrality]
 ---
 
 We're generally familiar with how buying cable works. Usually, there's a collection of packages including an increasing amount of channels with increasing cost. Adding "extras" like HBO cost extra. The Internet does not work the same way. Rather than paying for access to collections of websites, we pay for different speeds, and the entirety of our Internet will be delivered at that speed. The Internet operates very differently, so this sort of access scheme makes sense. A tiered Internet would operate more like cable; you might pay for faster access to a collection of websites, and your cable company might charge companies to allow their services to be available to you at better speeds.

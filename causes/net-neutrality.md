@@ -20,17 +20,11 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 
 ## Articles on this site
 
-* _[Explaining Net Neutrality]({{site.url}}/blog/read/2016.12.05.htm/)_
-* _[Why Internet Providers Don't Compete]({{site.url}}/blog/read/2016.12.23.htm/)_
-* _[Net Neutrality and Your Access to Information]({{site.url}}/blog/read/2017.01.04.htm/)_
-* _[ How Data Caps Hurt the Internet]({{site.url}}/blog/read/2017.01.10.htm/)_
-* _[Why Zero Rating Actually Sucks]({{site.url}}/blog/read/2017.01.16.htm/)_
-* _[The Problems with Tiered Internet]({{site.url}}/blog/read/2017.01.25.htm/)_
-* _[Net Neutrality and Your Voice]({{site.url}}/blog/read/2017.02.02.htm/)_
-* _[Innovation and a Neutral Internet]({{site.url}}/blog/read/2017.02.08.htm/)_
-* _[Your City Can Provide Better, Cheaper Internet]({{site.url}}/blog/read/2017.02.23.htm/)_
-* _[Protecting Net Neutrality with Regulation]({{site.url}}/blog/read/2017.03.01.htm/)_
-* _[How Net Neutrality is Being Undermined]({{site.url}}/blog/read/2017.03.16.htm/)_
+<ul>
+{% for post in site.tags.net-neutrality %}
+<li><em><a href="{{post.url}}">{{post.title}}</a></em></li>
+{% endfor %}
+</ul>
 
 ## Resources on the web
 - _[What is Net Neutrality - American Civil Liberties Union](https://www.aclu.org/feature/what-net-neutrality)_

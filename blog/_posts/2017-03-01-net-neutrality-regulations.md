@@ -3,6 +3,7 @@ layout: post
 title: Protecting Net Neutrality with Regulation
 author: Nate Levesque
 head-image: sky-powerline.jpg
+tags: [net-neutrality]
 ---
 
 In 2015, [broadband was reclassified under what's called Title II](http://www.npr.org/sections/thetwo-way/2015/02/26/389259382/net-neutrality-up-for-vote-today-by-fcc-board), which classifies it similar to phone service. This means that Internet Service Providers are not allowed to (among other things) "make any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services." This is a good thing which protects ISP customers (which can be households, businesses, or even other ISPs) although Congress and the FCC could, and should go further by also using Section 706 or better, by creating Internet-centric legislation. Some service providers have been against Title II and Section 706, but interestingly Sprint [has spoken out in favor of it](https://www.engadget.com/2015/01/16/sprint-net-neutrality-title-ii-is-ok/), and Comcast [has admitted that net neutrality is not the problem ISPs have made it out to be](https://consumerist.com/2016/12/09/comcast-exec-admits-that-net-neutrality-is-not-as-scary-as-industry-made-it-out-to-be/).
