@@ -33,3 +33,4 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 - _[The Fight to Save Net Neutrality - savetheinternet.com, Presented By Freepress](http://www.savetheinternet.com/net-neutrality-resources)_
 - _[What Will a Non-Neutral Internet Really Be Like? - CBS MoneyWatch](http://www.cbsnews.com/news/what-will-a-non-neutral-net-really-be-like/)_
 - _[What is net neutrality and what does it mean for me? - USA Today](http://www.usatoday.com/story/tech/2015/02/24/net-neutrality-what-is-it-guide/23237737/)_
+- _[Net Neutrality debate: Some insights from countries which have made it into a law - Tech2](http://tech.firstpost.com/news-analysis/net-neutrality-some-insights-from-countries-which-have-made-it-into-a-law-263072.html)_
