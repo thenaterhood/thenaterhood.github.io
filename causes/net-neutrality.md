@@ -27,6 +27,7 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 </ul>
 
 ## Resources on the web
+- _[The future of the open internet — and our way of life — is in your hands](https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)_
 - _[What is Net Neutrality - American Civil Liberties Union](https://www.aclu.org/feature/what-net-neutrality)_
 - _[Net Neutrality: What You Need to Know - savetheinternet.com, Presented By Freepress](http://www.savetheinternet.com/net-neutrality-what-you-need-know-now)_
 - _[Net Neutrality - Wikipedia](https://en.wikipedia.org/wiki/Net_neutrality)_
