@@ -3,7 +3,7 @@ title: Net Neutrality Resources
 layout: strata
 head-image: phone-laptop.jpg
 ---
-
+<a id="what-is-it"></a>
 # What is Net Neutrality?
 Net Neutrality is one of the most important digital rights issues of our time. This is an issue that affects everyone - even those who do not work in the technology sector.
 
@@ -11,12 +11,37 @@ Net Neutrality is the idea that all data on the Internet, regardless of who it c
 
 Net neutrality is why you can find and access any information you want to. It is also why you can set up your own website (for yourself, for your business, or for anything else) for next to nothing, and still have it available to everyone online.
 
+<a id="why-should-i-care"></a>
 # Why Should I Care?
 Net neutrality means that no matter what, you have the same access to information as everyone else. It also means that it's easy to make your own voice heard online no matter who you are or what your beliefs are.
 
 Telecoms should not control what you can see - especially since they own their own media networks. Net neutrality makes sure they don't.
 
 _Improve this page. Fact check me, report errors, and suggest improvements [here]({{site.url}}/factcheck)._
+
+<a id="how-can-i-help"></a>
+# How Can I Help?
+
+### Add a filing to the FCC proceeding on net neutrality
+
+#### First way (Pre-written letter):
+1. Go <a target="_blank" href="https://dearfcc.org">here</a>
+2. Fill out the form
+3. Click "next" and follow the rest of the instructions
+
+#### Second way (Do it yourself):
+
+1. Go <a target="_blank" href="http://gofccyourself.com">here</a>
+2. Click "+Express" towards the right of the page
+3. Fill out the form. Say that the FCC must protect net neutrality and that strong Title II classification and enforcement of ISPs is important to you.
+4. Click "Continue to Review Screen"
+5. Click confirm
+
+
+### Contact your representative(s)
+Tell them that net neutrality with strong Title II classification of ISPs is important to you.
+
+# More Resources
 
 ## Articles on this site
 
