@@ -1,0 +1,17 @@
+---
+layout: post
+title: Go Comment on the FCC Net Neutrality Proposal
+author: Nate Levesque
+head-image: ethernet-cables.jpg
+tags: [net-neutrality]
+---
+
+This week, the FCC published its promised proposal to dismantle net neutrality rules. The proposal claims to "restore Internet freedom" by undoing Title II classification. In addition, the proposal asks whether net neutrality rules are necessary to protect the Internet at all. This comes after a court decision that refused to re-hear a challenge to Title II. Rather than focus on the benefits of Title II and net neutrality, as well as the fact that Title II has been found legal, it focuses on dissenting opinions which have in some cases been debunked (or that are generally accepted to be false) in order to explain unproven holes in net neutrality.
+
+The FCC head has called net neutrality a mistake, arguing among other things that there is plenty of competition in the broadband Internet market, that net neutrality would harm consumers, and that net neutrality would stifle innovation. Evidence to the contrary for all of those is prevalent. Very few people have more than two home Internet options available, and wireless service is mostly powered by only four networks (other carriers rent space on those networks). Net neutrality brings privacy and transparency requirements which protects ISP customers from their private data being sold and unfair pricing. Online innovation is credited to companies like Google, Netflix, and Facebook - not ISPs, who make up a minority of companies.
+
+Considering that the FCC has already ignored the previous round of comments, which were in favor of net neutrality, why is commenting worth the time? The FCC is not a typical legislative organization and is required to gather public feedback on their proposals (though many of them are things the normal person has no interest in). The FCC is required to take this feedback into account when making and voting on proposals - and the feedback is also taken into account when legal challenges to FCC regulations happen. While the commission appears likely to continue to ignore this feedback, there are multiple organizations preparing lawsuits should the FCC finalize their proposal for taking apart net neutrality requirements. In the ensuing legal battles, should Title II be voted down, the public feedback left on the proposal will be taken into account in the case against the FCC.
+
+Net neutrality matters to you because it prevents your ISP or wireless carrier from choosing what you can see, what services you can use, and whether you can share your own views. ISPs are powerful companies who could control your online world. Net neutrality may be one of the most important battles of the modern age when it comes to our access to information and our freedom of speech.
+
+The battle for net neutrality will not be a short affair - and hasn't been a short affair. Join the nearly 2.6 million comments already on the proposal. Another vote will be held after the public comment period, so make sure your voice is heard - the Internet depends on it. [Help keep the Internet open, neutral, and competitive](https://www.thenaterhood.com/causes/net-neutrality/#how-can-i-help). The FCC has implied that quality, not quantity is what's most important to them in this round of commenting, so make sure to be precise and explain your views well. If you're not sure what to write, that link has the option to use a pre-written letter.
