@@ -20,7 +20,7 @@ Telecoms should not control what you can see - especially since they own their o
 _Improve this page. Fact check me, report errors, and suggest improvements [here]({{site.url}}/factcheck)._
 
 <a id="how-can-i-help"></a>
-# How Can I Help?
+# How Can I Help Net Neutrality?
 Remember! Be polite and respectful, but be assertive. Spamming or submitting lewd, racist, or otherwise immoral comments does not help the net neutrality cause.
 
 ## Contact the FCC
