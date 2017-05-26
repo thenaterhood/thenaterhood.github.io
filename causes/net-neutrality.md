@@ -23,6 +23,8 @@ _Improve this page. Fact check me, report errors, and suggest improvements [here
 # How Can I Help Net Neutrality?
 Remember! Be polite and respectful, but be assertive. Spamming or submitting lewd, racist, or otherwise immoral comments does not help the net neutrality cause.
 
+The fight for the Internet will be neither short nor easy. It will require persistence. Remember that this is a fight worth fighting for. Don't sit this one out and especially, don't give up.
+
 ## Contact the FCC
 The FCC is required to take public feedback into account regarding their proposals. While the FCC may ignore you, this feedback can be used to support net neutrality in court.
 
