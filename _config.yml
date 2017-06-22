@@ -10,11 +10,14 @@ paginate: 10
 paginate_path: "/blog/archive-:num"
 #permalink: pretty
 permalink: "/blog/read/:year.:month.:day.htm/"
+# WARNING: This is a javascript redirect.
+# It is not nearly as secure a true server
+# setup. You have been warned.
 redirect_to_https: yes
 
 highligher: pygments
 
-gems:
+plugins:
         - jekyll-sitemap
         - jekyll-paginate
         - jekyll-feed
