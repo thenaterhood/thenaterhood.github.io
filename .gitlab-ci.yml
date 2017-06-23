@@ -11,7 +11,9 @@ before_script:
 
 pages:
   script:
-  - gem install jekyll
+      # TODO: once jekyll-redirect-from is fixed, update jekyll
+      # @see https://github.com/jekyll/jekyll/issues/6154
+  - gem install jekyll -v 3.4.4
   - gem install jekyll-sitemap
   - gem install jekyll-paginate
   - gem install jekyll-feed
