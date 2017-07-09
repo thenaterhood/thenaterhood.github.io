@@ -18,7 +18,7 @@ exciting.
 
 Offline, I run long distance, explore the outdoors, and enjoy picking up new
 skills through a variety of side projects. If there’s something new I can
-learn, I want to learn it.
+learn, I want to learn it. I also enjoy taking pictures of sunsets.
 
 ---
 
