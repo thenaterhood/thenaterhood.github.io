@@ -11,6 +11,8 @@ Net Neutrality is the idea that all data on the Internet, regardless of who it c
 
 Net neutrality is why you can find and access any information you want to. It is also why you can set up your own website (for yourself, for your business, or for anything else) for next to nothing, and still have it available to everyone online.
 
+For a more in-depth look, pick up a copy of my book. It will be available starting August 7th and is available for preorder until then. Snag it at [book.thenaterhood.com](http://book.thenaterhood.com).
+
 <a id="why-should-i-care"></a>
 # Why Should I Care?
 Net neutrality means that no matter what, you have the same access to information as everyone else. It also means that it's easy to make your own voice heard online no matter who you are or what your beliefs are.
