@@ -22,7 +22,7 @@ function run_outdated_content_alert(element_id, item_date, display, message)
     }
 
     if (! message) {
-        message = "This article was written more than two years ago, and may contain outdated information.";
+        message = "This article was last updated over two years ago and may contain outdated information.";
     }
 
     item_date = new Date(item_date);
