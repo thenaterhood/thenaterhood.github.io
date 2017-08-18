@@ -76,12 +76,12 @@ These organizations are primed to fight for net neutrality with lawsuits if nece
 <hr />
 ## Be part of the public outcry
 
-* Join the March for Net Neutrality on August 12. More information is on [/r/MarchForNetNeutrality](https://www.reddit.com/r/MarchForNetNeutrality/). They have periodic events in the meantime.
+* Follow [/r/MarchForNetNeutrality](https://www.reddit.com/r/MarchForNetNeutrality/).
 * Tweet #KeepOurNetFree on Twitter
 * Facebook it!
 * Join the Reddit movement on [/r/KeepOurNetFree](https://reddit.com/r/keepournetfree)
 * Sign petitions. [Here's a good one](https://action.aclu.org/secure/keep-internet-free)
-* Inform your friends, family, colleagues, and strangers
+* Inform your friends, family, colleagues, and strangers - 72% of people [don't understand what net neutrality is](http://exstreamist.com/72-of-consumers-dont-know-what-net-neutrality-is/) or what it means for them, so they don't know why they should care.
 
 
 # More Resources
