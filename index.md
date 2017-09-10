@@ -3,7 +3,7 @@ title: Hello, World!
 layout: strata
 ---
 
-# Who am I?
+<h2>Who am I?</h2>
 
 I'm a software engineer. In layman's terms, that means I enjoy writing code,
 designing software, and generally making cool ideas into nifty applications.
@@ -20,6 +20,18 @@ Offline, I run long distance, explore the outdoors, and enjoy picking up new
 skills through a variety of side projects. If there’s something new I can
 learn, I want to learn it. I also enjoy taking pictures of sunsets.
 
----
-
 _Opinions expressed are mine alone._
+
+---
+<h2>Recent Posts</h2>
+<div class="row">
+{% for post in site.posts limit: 4 %}
+<article class="6u 12u$(xsmall) work-item">
+<a class="image fit thumb" href="{{post.url}}">
+<img src="/images/posts/{{post.head-image}}">
+</a>
+<h3><a href="{{post.url}}">{{post.title}}</a></h3>
+</article>
+{% endfor %}
+</div>
+<h4><a href="/blog">More Posts</a></h4>
