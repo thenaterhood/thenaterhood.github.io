@@ -2,7 +2,7 @@
 title: Beyond Network Neutrality
 layout: post
 author: Nate Levesque
-tags: [online-surveillance]
+tags: [upstream-neutrality]
 head-image: social-network.jpg
 ---
 
