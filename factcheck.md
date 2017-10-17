@@ -35,30 +35,28 @@ figure {
 }
 </style>
 ## How to get in touch
-<figure style="">
 
-<a href="https://twitter.com/thenaterhood">
-<img src="/images/external_logos/twitter.png" width="70%" />
-<figcaption>@thenaterhood</figcaption>
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a class="image fit thumb" href="https://twitter.com/thenaterhood">
+<img src="/images/external_logos/twitter.png" style="max-width: 150px;">
 </a>
+<h3><a href="https://twitter.com/thenaterhood">@thenaterhood</a></h3>
+</article>
 
-</figure>
-
-<figure style="">
-
-<a href="https://gitlab.com/thenaterhood/thenaterhood.gitlab.io/issues">
-<img src="/images/external_logos/gitlab.png" width="70%" />
-<figcaption>Open an Issue (GitLab)</figcaption>
+<article class="6u 12u$(xsmall) work-item">
+<a class="image fit thumb" href="https://gitlab.com/thenaterhood/thenaterhood.gitlab.io/issues">
+<img src="/images/external_logos/gitlab.png" style="max-width: 150px;">
 </a>
+<h3><a href="https://gitlab.com/thenaterhood/thenaterhood.gitlab.io/issues">Open a GitLab Issue</a></h3>
+</article>
 
-</figure>
+</div>
 
-<figure style="">
-
-<a href="https://github.com/thenaterhood/thenaterhood.github.io/issues">
-<img src="/images/external_logos/github.png" width="70%" />
-<figcaption>Open an Issue (GitHub)</figcaption>
+<article class="6u 12u$(xsmall) work-item">
+<a class="image fit thumb" href="https://github.com/thenaterhood/thenaterhood.github.io/issues">
+<img src="/images/external_logos/github.png" style="max-width: 150px;">
 </a>
-
-</figure>
+<h3><a href="https://github.com/thenaterhood/thenaterhood.github.io/issues">Open a GitHub Issue</a></h3>
+</article>
 
