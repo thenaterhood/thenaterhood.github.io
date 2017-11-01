@@ -4,7 +4,7 @@ title: Your City Can Provide Better, Cheaper Internet
 author: Nate Levesque
 head-image: ethernet-cables.jpg
 tags: [net-neutrality]
-updated: 2017-07-16
+updated: 2017-07-24
 ---
 
 Municipal Internet (or, depending on the technology, "municipal fiber", "municipal broadband", or "public broadband") [is Internet service provided partly or entirely by by local governments](https://en.wikipedia.org/wiki/Municipal_broadband). Usually, the networks providing service as well as their backing companies, exist on a local level rather than national. Being run with involvement from the local government means such services can provide access to the web at a much lower cost or in some cases even for free while being better tailored to the local community's needs. Areas that have built successful municipal networks often are able to provide more equal access to the Internet and better connectivity which can be a driving force in attracting high tech companies, economic development, and job growth.
@@ -15,4 +15,6 @@ Less expensive or not, the idea of paying for a network you might not use throug
 
 Chattanooga has experienced what has been referred to as an "economic rebirth," transforming them from a fairly no-name city to a technology hub. A boom in business has brought the city's unemployment rate down from 7.8% to 4.1% alongside an increase in average wages. A local tech incubator formed with the promise of fast, inexpensive, and reliable Internet. And, the city's downtown residents doubled with housing that in some cases offers free access to the Chattanooga network as an amenity. Of course, more equal access allows for people to be more informed and better educated, with access to news, online courses, and everything else the web has to offer.
 
-[At least 500 communities in the U.S. provide some form of municipal network](https://muninetworks.org/communitymap), including Chattanooga, Tennessee and Sandy, Oregon. Taxpayer funded or otherwise, there are clear benefits to public broadband and there are successful examples of how to implement such a network. There are ways to cut the costs of building a reliable network by using wireless technologies or mesh networks. Regardless, better access provides better opportunities and better equality. If nothing else, a municipal network adds competition for larger ISPs which can help drive down pricing and improve service even for those not using the municipal option.
+[At least 500 communities in the U.S. provide some form of municipal network](https://muninetworks.org/communitymap), including Chattanooga, Tennessee and Sandy, Oregon. Not all local governments are equipped or willing to build municipal networks, however, but volunteers can sidestep them to build their own.
+
+Taxpayer funded or otherwise, there are clear benefits to public broadband and there are successful examples of how to implement such a network. There are ways to cut the costs of building a reliable network by using wireless technologies or mesh networks. Regardless, better access provides better opportunities and better equality. If nothing else, a municipal network adds competition for larger ISPs which can help drive down pricing and improve service even for those not using the municipal option.
