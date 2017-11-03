@@ -17,7 +17,7 @@
                 {% if false %}
                 <!-- The whitespace has been removed from this section of code because it breaks open-graph URL parsing -->
                 {% endif %}
-                <meta property="twitter:card" content="summary" />
+                <meta property="twitter:card" content="summary_large_image" />
                 <meta property="twitter:creator" content="@thenaterhood" />
 		<meta property="og:image" content="{% if page.head-image %}{% if page.head-image contains 'http://' %}{{ page.head-image }}{% elsif page.head-image contains '/' %}{{ site.og_url }}{{ page.head-image }}{% else %}{{ site.og_url }}/images/posts/{{ page.head-image }}{% endif %}{% else %}{{ site.og_url }}/images/og-default.png{% endif %}" />
                 <meta property="og:title" content="{{ page.title }}" />
