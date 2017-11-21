@@ -1,10 +1,13 @@
 {% include strata-head.html %}
 <header id="header"
     {% if page.head-image %}
-        {% if page.head-image contains '/' %}
-            style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
+        {% if page.hide-head-image %}
         {% else %}
+            {% if page.head-image contains '/' %}
+            style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
+            {% else %}
             style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('/images/posts/{{page.head-image}}') center top no-repeat; background-size: cover;"
+            {% endif %}
         {% endif %}
     {% endif %}
         >

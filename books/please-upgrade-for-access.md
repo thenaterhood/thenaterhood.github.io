@@ -1,6 +1,8 @@
 ---
 layout: strata
 title: Please Upgrade For Access
+head-image: /images/covers/please-upgrade-for-access.png
+hide-head-image: yes
 ---
 
 # {{ page.title }}
