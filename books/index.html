@@ -1,0 +1,25 @@
+---
+layout: strata
+title: Books
+---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/thenaterhood.js"></script>
+
+<link rel="stylesheet" href="/assets/css/cards.css" />
+
+<h1>Books</h1>
+
+<div class="row">
+    {% for book in site.data.books %}
+    <article class="6u 12u$(xsmall) work-item">
+        <a class="image fit thumb" href="{{ book.url }}">
+            <img src="/images/covers/{{ book.cover }}">
+        </a>
+        <h3><a href="{{ book.url }}">{{ book.title }}</a></h3>
+        <p>{{ book.blurb }}</p>
+    </article>
+
+    {% endfor %}
+</div>
