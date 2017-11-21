@@ -1,7 +1,7 @@
 ---
 layout: strata
 title: They're Coming For Your Internet
-head-image: /images/covers/theyre-coming-for-your-internet.png
+head-image: /images/cards/theyre-coming-for-your-internet.png
 hide-head-image: yes
 ---
 
