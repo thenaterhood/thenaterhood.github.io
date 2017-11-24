@@ -1,8 +1,12 @@
 <script>
   {% if site.redirect_to_https %}
     var proto = String.fromCharCode(104,116,116,112,115,58);
-    if (window.location.protocol != proto) {
-      window.location.href = proto + window.location.href.substring(window.location.protocol.length);
+    if (/localhost\:(\d+)/i.test(window.location.host)) {
+        // Don't do this for localhost URLs
+    } else {
+        if (window.location.protocol != proto) {
+          window.location.href = proto + window.location.href.substring(window.location.protocol.length);
+        }
     }
   {% endif %}
 </script>
