@@ -1,0 +1,44 @@
+.share-btn {
+    display: inline-block;
+    padding: 0.5em;
+    margin-top: 5px;
+    width: 4em;
+    opacity: 0.9;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: 700;
+    height: 2.75em;
+    line-height: 2.75em;
+    padding: 0 1.125em;
+}
+
+.share-btn.twitter {
+    background: #55acee;
+    color: white;
+}
+
+.share-btn.twitter:hover {
+    background: black;
+    color: white;
+}
+
+.share-btn.facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.share-btn.facebook:hover {
+    background: black;
+    color: white;
+}
+
+.share-btn.linkedin {
+    background: #4875B4;
+    color: white;
+}
+
+.share-btn.linkedin:hover {
+    background: black;
+    color: white;
+}
+
