@@ -61,3 +61,13 @@
     background: black;
     color: white;
 }
+
+.share-btn.email {
+    background: #444444;
+    color: white;
+}
+
+.share-btn.email:hover {
+    background: black;
+    color: white;
+}
