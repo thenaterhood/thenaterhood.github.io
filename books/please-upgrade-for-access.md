@@ -9,7 +9,7 @@ hide-head-image: yes
 
 <img src="/images/covers/please-upgrade-for-access.png" height="300px">
 <br />
-### Get Your Copy
+## Get Your Copy
 <a class="button special" target="_blank" href="https://www.amazon.com/dp/B073WY96Q1" rel="noopener">
     Amazon
 </a>
@@ -26,7 +26,9 @@ hide-head-image: yes
     Smashwords
 </a>
 
-### Book Description
+{% include share-widget.html %}
+
+## Book Description
 It's easy to take the mostly neutral world of free speech online for granted. ISPs are hoping we continue to and that we won't notice as they take control of the web.
 
 When a flow of information is centralized, it can be curated by those who own it to manipulate opinions, elections, and education. Western Union, a communications giant of the past, used that fact to manipulate the U.S. presidential election of 1876 with its absolute control over the telegraph network. There was no concept of net neutrality to stop it. We've seen similar things since with the centralization of radio, cable, and the telephone. How are ISPs trying to take over? What are the repercussions if they do? Can we keep the Internet open, or are we doomed to watch history repeat itself as big corporations take over?
