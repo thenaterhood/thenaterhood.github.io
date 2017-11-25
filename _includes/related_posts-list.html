@@ -44,11 +44,16 @@ and (max-width : 1023px ){
 }
 
 </style>
-    <h3 class="blog-related">More to See</h3>
-    <ul class="blog-related-ul blog-related">
-    {% for s in site.related_posts limit:4 %}
-    <li class="blog-related-li blog-related"><a href="{{s.url}}">{{s.title}}</a></li>
-    {% endfor %}
+
+<h3 class="blog-related">More to See</h3>
+<div class="row">
+{% for s in site.related_posts limit: 4 %}
+<article class="6u 12u$(xsmall) work-item">
+<h3><a href="{{s.url}}">{{s.title}}</a></h3>
+</article>
+{% endfor %}
+</div>
+
     </ul>
     <span class="blog-related-endspace">&nbsp;</span>
     <br />
