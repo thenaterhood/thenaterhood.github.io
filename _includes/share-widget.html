@@ -9,4 +9,10 @@
 <a rel="noopener" target="_blank" href="http://www.linkedin.com/shareArticle?url={{site.url}}{{page.url}}" class="btn-reflowable share-btn linkedin">
     <i class="fa fa-linkedin"></i>
 </a>
+<a rel="noopener" target="_blank" href="http://reddit.com/submit?url={{site.url | cgi_escape}}{{page.url || cgi_escape}}&title={{page.title | cgi_escape}}" class="btn-reflowable share-btn reddit">
+    <i class="fa fa-reddit"></i>
+</a>
+<a rel="noopener" target="_blank" href="https://plus.google.com/share?url={{site.url | cgi_escape}}{{page.url || cgi_escape}}" class="btn-reflowable share-btn google">
+    <i class="fa fa-google-plus"></i>
+</a>
 </span>

@@ -42,3 +42,22 @@
     color: white;
 }
 
+.share-btn.reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.share-btn.reddit:hover {
+    background: black;
+    color: white;
+}
+
+.share-btn.google {
+    background: #dd4b39;
+    color: white;
+}
+
+.share-btn.google:hover {
+    background: black;
+    color: white;
+}
