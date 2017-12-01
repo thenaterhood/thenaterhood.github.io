@@ -15,6 +15,12 @@ hide-head-image: yes
 <a class="button special" target="_blank" href="https://www.smashwords.com/books/view/760122" rel="noopener">
     Smashwords
 </a>
+<a class="button special" target="_blank" href="https://www.barnesandnoble.com/w/theyre-coming-for-your-internet-nate-levesque/1127552656" rel="noopener">
+    Barnes and Noble
+</a>
+<a class="button special" target="_blank" href="https://www.kobo.com/us/en/ebook/they-re-coming-for-your-internet" rel="noopener">
+    Kobo
+</a>
 
 {% include share-widget.html %}
 
