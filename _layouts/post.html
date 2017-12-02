@@ -2,23 +2,41 @@
 {% include strata-blog-header.html %}
 
 <div id="main">
-      <section>
+    <section>
 
-          <h1>{{ page.title }}</h1>
-          <h4>{{ page.date | date_to_long_string }}</h4>
-          {% if page.updated %}
-          <h5><em>Updated {{ page.updated | date_to_long_string }}</em></h5>
-          {% endif %}
-          <span class="alert alert-info" style="display:none;" id='outdated-post-alert'></span>
+        <h1>{{ page.title }}</h1>
+        <h4>{{ page.date | date_to_long_string }}</h4>
+        {% if page.updated %}
+            {% assign last_update = page.updated %}
+            <h5><em>Updated {{ page.updated | date_to_long_string }}</em></h5>
+        {% else if page.updates %}
+            {% for update in page.updates %}
+                {% for reason in update %}
+                    <h5>
+                        <em>Updated {{ reason[0] | date_to_long_string }}: {{ reason[1] }}</em>
+                    </h5>
 
-      {{ content }}
+                    {% comment %}
+                    When iterating through a hash, index 0 is the key and
+                    index 1 is the value. We want to date, which is the
+                    key. By assigning each loop, we'll end up with the
+                    last one.
+                    {% endcomment %}
+                    {% assign last_update = reason[0] %}
+                {% endfor %}
 
-      {% if page.tags contains "net-neutrality" or page.tags contains "upstream-neutrality" %}
-      <span class="alert alert-info">
-        Interested in net neutrality? Check out my book, <a style="color:white;" target="_blank" href="http://book.thenaterhood.com"><em>Please Upgrade for Access</em></a>, at <a style="color: white;" target="_blank" href="http://book.thenaterhood.com">book.thenaterhood.com</a>.
-      </span>
-      {% endif %}
-      </section>
+            {% endfor %}
+        {% endif %}
+        <span class="alert alert-info" style="display:none;" id='outdated-post-alert'></span>
+
+        {{ content }}
+
+        {% if page.tags contains "net-neutrality" or page.tags contains "upstream-neutrality" %}
+        <span class="alert alert-info">
+            Interested in net neutrality? Check out my book, <a style="color:white;" target="_blank" href="http://book.thenaterhood.com"><em>Please Upgrade for Access</em></a>, at <a style="color: white;" target="_blank" href="http://book.thenaterhood.com">book.thenaterhood.com</a>.
+        </span>
+        {% endif %}
+    </section>
     <h4 align="center">&bull;&nbsp;&bull;&nbsp;&bull;</h4>
     <p align="center"><a class="button" href="https://feedburner.google.com/fb/a/mailverify?uri=nphilosophy">Stay updated by email</a><br /><em> or, <a href="http://feeds.thenaterhood.com/nphilosophy">grab the feed</a></em></p>
     <p align="center"><a href="/factcheck">Found something wrong? Get in touch.</a></p>
@@ -26,16 +44,16 @@
     {% include related_posts-list.html %}
     {% include share-widget.html %}
 
-    </div>
+</div>
 
-      <script src="/assets/js/thenaterhood.js"></script>
-      <script>
-        {% if page.updated %}
-        let post_date = Date.parse("{{ page.updated | date: "%Y-%m-%d" }}");
-        {% else %}
-        let post_date = Date.parse("{{ page.date | date: "%Y-%m-%d" }}");
-        {% endif %}
-        run_outdated_content_alert('outdated-post-alert', post_date, 'inline-block');
-      </script>
+<script src="/assets/js/thenaterhood.js"></script>
+<script>
+    {% if last_update %}
+    let post_date = Date.parse("{{ last_update | date: "%Y-%m-%d" }}");
+    {% else %}
+    let post_date = Date.parse("{{ page.date | date: "%Y-%m-%d" }}");
+    {% endif %}
+    run_outdated_content_alert('outdated-post-alert', post_date, 'inline-block');
+</script>
 
 {% include strata-footer.html %}
