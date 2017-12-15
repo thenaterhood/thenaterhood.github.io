@@ -1225,7 +1225,7 @@ a {
 
 strong, b {
   color: #000000;
-  font-weight: 400; }
+  font-weight: 800; }
 
 em, i {
   font-style: italic; }
@@ -1883,7 +1883,7 @@ input[type="button"],
   #header h2, #header h3, #header h4, #header h5, #header h6 {
     color: #ffffff; }
   #header h1 {
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
     font-size: 1.6em;
     line-height: 1.75em;
     margin: 0; }

@@ -82,7 +82,7 @@
 
 	strong, b {
 		color: _palette(fg-bold);
-		font-weight: _font(weight-bold);
+		font-weight: _font(weight-strong);
 	}
 
 	em, i {
@@ -926,7 +926,7 @@
 		}
 
 		h1 {
-			color: _palette(accent2, fg);
+			color: _palette(accent2, fg-bold);
 			font-size: 1.6em;
 			line-height: 1.75em;
 			margin: 0;

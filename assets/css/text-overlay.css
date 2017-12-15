@@ -1,0 +1,64 @@
+
+.containerBox {
+  position: relative;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.text-box {
+  position: absolute;
+  min-height: 10%;
+  max-height: 80%;
+  width: 100%;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7); padding: 10px;
+}
+
+.image-container {
+    min-height: 100px;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: auto;
+  padding: auto;
+}
+
+.dataNumber {
+  margin-top: auto;
+}
+
+.text-overlay {
+    color: #ffffff !important;
+}
+
+.shadowDepth0 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12); }
+
+.shadowDepth1 {
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0, 0, 0, 0.24); }
+
+@media screen and (max-width: 636px) {
+    .hide-small-screen {
+        display: none !important;
+    }
+
+    .show-small-screen {
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 637px) {
+    .show-small-screen {
+        display: none;
+    }
+}
