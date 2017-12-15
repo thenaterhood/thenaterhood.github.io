@@ -19,13 +19,59 @@ Net neutrality means that no matter what, you have the same access to informatio
 
 Telecoms should not control what you can see - especially since they own their own media networks. Net neutrality makes sure they don't.
 
+The loss of net neutrality will not be sudden. ISPs will slowly change their service plans to be more restricted and more expensive over time. Over a few years, the Internet will become restricted, closed off, difficult to compete on for people and new businesses, and more expensive.
+
+The FCC voted against net neutrality on December 14th, 2017. The fight for net neutrality is ongoing.
+
 _Improve this page. Fact check me, report errors, and suggest improvements [here]({{site.url}}/factcheck)._
 
 <a id="how-can-i-help"></a>
 # How Can I Help Net Neutrality?
-Remember! Be polite and respectful, but be assertive. Spamming or submitting lewd, racist, or otherwise immoral comments does not help the net neutrality cause.
+Remember! Be polite and respectful, but be assertive. Spamming or submitting lewd, racist, or otherwise immoral comments does not help the net neutrality cause. While it may feel warranted, sending hate mail to representatives who are against net neutrality does not help the cause.
 
 The fight for the Internet will be neither short nor easy. It will require persistence. Remember that this is a fight worth fighting for. Don't sit this one out and especially, don't give up.
+
+## Check if your identity was stolen to fight net neutrality
+Identities of people, alive and deceased, were used to comment on the FCC net neutrality proposal without their consent.
+1. Check if your identity was used: <https://ag.ny.gov/fakecomments>
+2. If it was, report it to the New York Attorney General: <https://ag.ny.gov/fakecomments-form>
+
+---
+
+## Contact your representative(s)
+
+### Get in touch the old fashioned way
+Tell them that net neutrality with strong Title II classification of ISPs is important to you. You can find who your representatives are
+using your zipcode [on house.gov](http://www.house.gov/representatives/find/). Note that hand-written letters and phone calls make the most impact, but emails and faxes help make your voice heard too. You can now do this online at <https://www.mailmygov.com/>.
+
+### Use ResistBot
+Text "resist" to 50409, and a bot will guide you through finding your representatives and will send them a fax with your message on your behalf. This service is free, and you can use it as many times as you want.
+
+<hr />
+
+## Donate to organizations that support net neutrality
+These organizations are primed to fight for net neutrality with lawsuits if necessary. They need monetary support.
+
+* [The American Civil Liberties Union (ACLU)](https://aclu.org)
+* [The Electronic Frontier Foundation (EFF)](https://eff.org)
+* [Save The Internet from FreePress](https://www.savetheinternet.com/sti-home)
+* [The Center for Democracy](https://cdt.org/donate/)
+* [Fight For the Future](https://www.fightforthefuture.org/)
+
+<hr />
+## Be part of the public outcry.
+
+* Follow [/r/MarchForNetNeutrality](https://www.reddit.com/r/MarchForNetNeutrality/), [/r/NetNeutrality](https://www.reddit.com/r/NetNeutrality/), and [/r/KeepOurNetFree](https://www.reddit.com/r/KeepOurNetFree/)
+* Tweet [#KeepOurNetFree](https://twitter.com/hashtag/KeepOurNetFree) and [#NetNeutrality](https://twitter.com/hashtag/NetNeutrality) on Twitter
+* Post on Facebook
+* Inform your friends, family, colleagues, and strangers - 72% of people [don't understand what net neutrality is](http://exstreamist.com/72-of-consumers-dont-know-what-net-neutrality-is/) or what it means for them, so they don't know why they should care.
+* Join local protests
+* Help fight for municipal networks, independent ISPs, and mesh networks in your area
+* Make informed decisions in the next election you can vote in. Don't forget about your local elections!
+
+...and keep doing it! Don't let the fight die out, and don't let your elected officials pretend you don't care.
+
+---
 
 ## Contact the FCC
 The FCC is required to take public feedback into account regarding their proposals. While the FCC may ignore you, this feedback can be used to support net neutrality in court.
@@ -52,37 +98,6 @@ Certified mail is required to be signed for, meaning there is a record that it h
 Their phone number is 1 (888) 225-5322
 
 <hr />
-
-## Contact your representative(s)
-
-### Get in touch the old fashioned way
-Tell them that net neutrality with strong Title II classification of ISPs is important to you. You can find who your representatives are
-using your zipcode [on house.gov](http://www.house.gov/representatives/find/). Note that hand-written letters and phone calls make the most impact, but emails and faxes help make your voice heard too.
-
-### Use ResistBot
-Text "resist" to 50409, and a bot will guide you through finding your representatives and will send them a fax with your message on your behalf. This service is free, and you can use it as many times as you want.
-
-<hr />
-
-## Donate to organizations that support net neutrality
-These organizations are primed to fight for net neutrality with lawsuits if necessary. They need monetary support.
-
-* [The American Civil Liberties Union (ACLU)](https://aclu.org)
-* [The Electronic Frontier Foundation (EFF)](https://eff.org)
-* [Save The Internet from FreePress](https://www.savetheinternet.com/sti-home)
-* [The Center for Democracy](https://cdt.org/donate/)
-* [Fight For the Future](https://www.fightforthefuture.org/)
-
-<hr />
-## Be part of the public outcry
-
-* Follow [/r/MarchForNetNeutrality](https://www.reddit.com/r/MarchForNetNeutrality/).
-* Tweet #KeepOurNetFree on Twitter
-* Facebook it!
-* Join the Reddit movement on [/r/KeepOurNetFree](https://reddit.com/r/keepournetfree)
-* Sign petitions. [Here's a good one](https://action.aclu.org/secure/keep-internet-free)
-* Inform your friends, family, colleagues, and strangers - 72% of people [don't understand what net neutrality is](http://exstreamist.com/72-of-consumers-dont-know-what-net-neutrality-is/) or what it means for them, so they don't know why they should care.
-
 
 # More Resources
 
