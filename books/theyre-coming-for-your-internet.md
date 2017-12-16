@@ -21,6 +21,9 @@ hide-head-image: yes
 <a class="button special" target="_blank" href="https://www.kobo.com/us/en/ebook/they-re-coming-for-your-internet" rel="noopener">
     Kobo
 </a>
+<a class="button special" target="_blank" href="https://itunes.apple.com/us/book/theyre-coming-for-your-internet/id1318520246" rel="noopener">
+    Apple iBooks
+</a>
 
 {% include share-widget.html %}
 
