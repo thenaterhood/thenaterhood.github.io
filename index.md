@@ -25,7 +25,7 @@ _Opinions expressed are mine alone._
 ---
 <h2>Recent Posts</h2>
 <div class="row">
-{% for post in site.posts limit: 4 %}
+{% for post in site.posts limit: 2 %}
 <article class="6u 12u$(xsmall) work-item">
 <a class="image fit thumb" href="{{post.url}}">
 <img src="/images/posts/{{post.head-image}}">
