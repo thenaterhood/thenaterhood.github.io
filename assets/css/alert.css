@@ -22,3 +22,30 @@
     color: white;
 }
 
+.alert-img {
+    vertical-align: middle;
+    display: table-cell;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.alert-txt {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.alert-img-image {
+    height: 128px;
+}
+
+.alert-img-image-a {
+    text-decoration: none;
+    border-bottom: 0px;    
+}
+
+@media (max-width: 350px) {                  
+    .alert-img {
+       display: none;
+    }
+ }
+
