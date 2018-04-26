@@ -7,7 +7,7 @@ layout: strata
 
 This website collects information about your visit and what you do while during your visit. This policy describes how information collected from you or your device, or information that you provide, will be handled.
 
-Last Updated 2017/02/25.
+Last Updated 2017/04/25.
 
 ## Google Analytics
 
@@ -46,7 +46,7 @@ Using your browser's options, you are free to delete these cookies or block them
 
 Like many blogs, you are free to provide your email address in order to receive notifications of new blog posts or other news. This feature is provided by a third-party service, Google FeedBurner.
 
-If you request an email subscription, your email address, subscription date, and subscription status (whether you've confirmed your subscription and whether your email address is still active) are made available to me and stored in the FeedBurner service. This data is never shared or sold by me.
+If you request an email subscription, your email address, subscription date, and subscription status (whether you've confirmed your subscription and whether your email address is still active) is retained and stored in the FeedBurner service. This data is never shared or sold by this website.
 
 If this site migrates to a different subscription service, your email address may be downloaded and imported into the new service, but will not be retained unencrypted anywhere outside the service(s) longer than necessary. This may be done without notice, but changes will be noted in this privacy policy.
 
