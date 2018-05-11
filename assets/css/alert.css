@@ -40,12 +40,27 @@
 
 .alert-img-image-a {
     text-decoration: none;
-    border-bottom: 0px;    
+    border-bottom: 0px;
 }
 
-@media (max-width: 350px) {                  
+@media (max-width: 350px) {
     .alert-img {
        display: none;
     }
- }
+}
 
+.red-alert-bar {
+    position: fixed;
+    display: block;
+    width: 100%;
+    z-index: 100;
+    background: #D40A2A;
+    text-align: center;
+    color: white;
+    padding-top: .5%;
+    padding-bottom: .5%;
+}
+
+.red-alert-a {
+    color: white;
+}

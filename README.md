@@ -24,7 +24,7 @@ Building
 check that the project settings have Gitlab's runners configured
 
 **If you clone this repository directly, please remove or update the Google
-Analytics ID found in _includes/ga-tracking.html**. You can also modify the
+Analytics ID found in _includes/sitewide-codeload.html**. You can also modify the
 tracking code to your heart's content to use another tracking system or none
 at all.
 
