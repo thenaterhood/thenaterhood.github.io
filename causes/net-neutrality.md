@@ -73,32 +73,6 @@ These organizations are primed to fight for net neutrality with lawsuits if nece
 
 ---
 
-## Contact the FCC
-The FCC is required to take public feedback into account regarding their proposals. While the FCC may ignore you, this feedback can be used to support net neutrality in court.
-
-### Add a filing to the FCC proceeding on net neutrality
-
-#### First way (Pre-written letter):
-1. Go <a target="_blank" href="https://dearfcc.org">here</a>
-2. Fill out the form
-3. Click "next" and follow the rest of the instructions
-
-#### Second way (Do it yourself):
-
-1. Go <a target="_blank" href="http://gofccyourself.com">here</a>
-2. Click "+Express" towards the right of the page
-3. Fill out the form. Say that the FCC must protect net neutrality and that strong Title II classification and enforcement of ISPs is important to you.
-4. Click "Continue to Review Screen"
-5. Click confirm
-
-### Send a certified letter to the FCC
-Certified mail is required to be signed for, meaning there is a record that it has been received. [Here's the address](200~https://www.google.com/search?q=Federal+Communications+Commission+Address&rlz=1C1CHBF_enUS733US733&oq=Federal+Communications+Commission+Address&aqs=chrome..69i57j0l5.6209j0j4&sourceid=chrome&ie=UTF-8)
-
-### Call the FCC
-Their phone number is 1 (888) 225-5322
-
-<hr />
-
 # More Resources
 
 ## Articles on this site
