@@ -1,0 +1,21 @@
+---
+title: "#WalkAway and Russian Ops"
+layout: post
+author: Nate Levesque
+tags: [upstream-neutrality]
+head-image: bot-army.jpg
+---
+
+Bot activity across the political spectrum is nothing new. [In a University of Southern California (USC) study](http://firstmonday.org/ojs/index.php/fm/article/view/7090/5653), bots accounted for a fifth of political activity on Twitter in the 2016 election. Bots also accounted for 400,000 of the 2.8 million Twitter users tweeting about the election, or about 15% of the users the USC study looked at. While different bots campaigns supported candidates from all political leanings, Trump had a significantly higher number of supporters that were bots rather than real people than other politicians.
+
+Despite continuing bot takedowns in the war between social media and bots, bots continue to be active in the online political discussion. As in the past, most bot messaging is generally supportive of Trump, and isn't always based in any sort of fact. Spurred by the possibility of a supposed blue wave in the 2018 midterm elections bot activity is ramping back up with new campaigns such as the recent "#WalkAway" hashtag movement.
+
+"#WalkAway" [is a viral Twitter hashtag](https://www.salon.com/2018/07/09/russian-bots-are-back-walkaway-attack-on-democrats-is-a-likely-kremlin-operation/) that made it into the top trending topics on Twitter, hot on the tail of protests over topics like family separations and other border control practices. The campaign consists of tweets tagged with the #WalkAway hashtag that are from Twitter users claiming to be leaving the Democratic party due to the party's "intolerance and incivility." The tweets appear to mainly be from bots and right-wing Twitter influencers rather than real democrats. [One of the Tweets](https://www.washingtonpost.com/news/the-intersect/wp/2018/07/02/the-walkaway-meme-is-what-happens-when-everything-is-viral-and-nothing-matters/) from a now-suspended account, was retweeted over 16,000 times:
+
+> "Both my parents are Hispanic LEGAL immigrants, both were registered Democrats, and both this week told me they have decided to #WalkAway"
+
+The account was taken down by Twitter over strong suspicions that it was a bot. Suspicions arose when other Twitter users discovered the profile picture on the account was photoshopped from the cover of a book of penny stocks and that the account didn't have a credible history. The #WalkAway campaign as a whole [has been linked to Russian Twitter bots](https://www.salon.com/2018/07/09/russian-bots-are-back-walkaway-attack-on-democrats-is-a-likely-kremlin-operation/) and ranked as the third or fourth most popular Russia-linked hashtag for days.
+
+The "#WalkAway" hashtag is far from the first hashtag campaign linked to Russian actors appearing to try to influence the narrative of issues in the United States. Russian bots were linked to the spread of disinformation on social media through the 2016 election. After the Charlottesville riots, Russian bots took up various right-wing conspiracy theories and rallying cries, [making them viral on the platform](https://www.propublica.org/article/pro-russian-bots-take-up-the-right-wing-cause-after-charlottesville). This included various "Antifa" accounts posing as far-left activists. Some of the accounts, including one that went by the name Angee Dixson, posted over 90 times a day to criticize the removal of Confedrate monuments and to post pictures that supposedly showed left-wing violence.
+
+When it comes to bots, any sort of accuracy and honesty can go completely out the window. Bots are operated by relatively anonymous groups whose goals aren't known and whose care for accuracy and honesty is often low. Despite that, they've inserted themselves into political discourse around the world, making it hard to trust what we read and spreading misinformation to those who may be too trusting. Whether it's from Russia, as the current allegations suggest, or a different country, social media discourse can be hard to trust.
