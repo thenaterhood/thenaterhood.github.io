@@ -3,6 +3,8 @@ layout: post
 title: What Site to Trust Next
 head-image: data-key.jpg
 tags: [google, internet, news, passwords, privacy, safety, security]
+updates:
+    - 2019-05-25 : Link rot. Replace shouldichangemypassword.com with haveibeenpwned.com
 ---
 
 As Dropbox is my favorite (and currently, only) cloud storage provider,
@@ -39,7 +41,7 @@ hacked sites including GMail, PayPal, World of Warcraft, and Facebook. 
 Although these are directly related to the recent wave of hacking, it
 begs the question of whether or not too much trust is placed in those
 sites.  To find out if your account was among the hacked, visit
-<https://shouldichangemypassword.com/>.  If it was hacked, or if you're
+<https://haveibeenpwned.com/>.  If it was hacked, or if you're
 rightfully paranoid, consider turning on the 2-step verification that
 Google and Facebook both offer so that if your password is compromised,
 your account still can't be logged into unless the perpetrator has your
