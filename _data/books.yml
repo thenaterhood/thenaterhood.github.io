@@ -1,3 +1,8 @@
+- title: The Thought Trap
+  url: "/books/the-thought-trap"
+  cover: "the-thought-trap.png"
+  blurb: "The Thought Trap examines the state of our Internet in the hands of the services we use. Have they been good stewards of the web? What happens to us—our ability to be informed, to think, and to make choices—across the threshold of their platforms?"
+
 - title: Please Upgrade For Access
   url: "/books/please-upgrade-for-access"
   cover: "please-upgrade-for-access.png"
@@ -10,3 +15,5 @@ Find out what's at stake and how your ISP might be undermining your rights."
   cover: "theyre-coming-for-your-internet.png"
   blurb: "The Internet is an innovation unlike any other. It has revolutionized the way we communicate, work, and do business. When it comes to communication, it may be the most important invention in our history. On the web, all of us are creators and global citizens.
 What happens if we lose net neutrality? Is the Internet doomed? Are we fated to become second-class citizens online?"
+
+

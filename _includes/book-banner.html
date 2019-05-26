@@ -1,0 +1,11 @@
+<span class="alert alert-info">
+        <div class="alert-img">
+                <a class="alert-img-image-a" target="_blank" href="{{ book_url }}">
+                        <image class="alert-img-image" src="{{ book_image }}" height="128px"></image>
+                </a>
+        </div>
+        <div class="alert-txt">
+                {{ book_action_call }} <a style="color: white;" target="_blank" href="{{ book_url }}"><em>{{ book_title }}</em></a>{% if book_human_url %}, at <a style="color: white;" target="_blank" href="{{ book_url }}" >{{ book_human_url }}</a>.{% else %}.{% endif %}
+        </div>
+</span>
+

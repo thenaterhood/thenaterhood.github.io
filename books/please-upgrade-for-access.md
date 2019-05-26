@@ -9,21 +9,8 @@ hide-head-image: yes
 
 <img src="/images/covers/please-upgrade-for-access.png" height="300px">
 <br />
-## Get Your Copy
-<a class="button special" target="_blank" href="https://www.amazon.com/dp/B073WY96Q1" rel="noopener">
-    Amazon
-</a>
-<a class="button special" target="_blank" href="https://itunes.apple.com/us/book/please-upgrade-for-access/id1259030223?mt=11" rel="noopener">
-    Apple iBooks
-</a>
-<a class="button special" target="_blank" href="https://www.barnesandnoble.com/w/please-upgrade-for-access-nate-levesque/1126745637" rel="noopener">
-    Barnes and Noble
-</a>
-<a class="button special" target="_blank" href="https://www.kobo.com/us/en/ebook/please-upgrade-for-access" rel="noopener">
-    Kobo
-</a>
-<a class="button special" target="_blank" href="https://www.smashwords.com/books/view/735926" rel="noopener">
-    Smashwords
+<a class="button special" target="_blank" href="https://books2read.com/please-upgrade-for-access" rel="noopener">
+    Get Your Copy
 </a>
 
 {% include share-widget.html %}
