@@ -1,6 +1,9 @@
 ---
 title: Hello, World!
 layout: strata
+redirect_from:
+    - /about/
+    - /ideas/
 ---
 
 <h2>Who am I?</h2>
