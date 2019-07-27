@@ -14,9 +14,10 @@ hide-head-image: yes
 {% include share-widget.html %}
 
 ## Book Description
-We needed help to navigate the wild world of the open Internet—and we took its freedoms for granted. So, we turned to services such as social networks and search engines to quiet it down.
+We live in an era like no other. Virtually unlimited information, social connections, and personalized recommendations are at our fingertips every second of every day. We can connect with anyone, anywhere, anytime. But is it the utopia it sounds like?
 
-Those services grew so big that they’ve changed the nature of our Internet. The open web is falling away to their ever-tightening ecosystems, where a new corporate direction can crush companies and redirect the attention of millions.
+We’re overwhelmed with information. Our digital lives are tracked and analyzed. Our social feeds show us clickbait, hoaxes, and habit-forming features. New technologies have given us fake photos, Deepfake video, fabricated audio, and even realistic but completely computer-generated speeches from world leaders. Even the tools our social networks give us to report those problems are getting used against us.
 
-<em>The Thought Trap</em> examines the state of our Internet in the hands of the services we use. Have they been good stewards of the web? What happens to us—our ability to be informed, to think, and to make choices—across the threshold of their platforms?
-It's easy to take the mostly neutral world of free speech online for granted. ISPs are hoping we continue to and that we won't notice as they take control of the web.
+We don’t always know who or what is behind it. But, they know our social media is a powerful place for propaganda. Mob mentality, confirmation bias, and our willingness to re-share without double checking make it easy for us to be manipulated—to trade the commodity that is our attention, to change our opinion, or to sell us something. And, we don’t always know why or when it’s happening.
+
+_The Thought Trap_ examines the dystopian side to our web of unlimited information. How are we getting manipulated? To what end? What’s happening across the threshold of the massive online platforms we’re all part of?
