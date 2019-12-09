@@ -1,4 +1,4 @@
-image: ruby:2.3
+image: ruby:2.4
 
 before_script:
   - apt-get update > /dev/null
@@ -13,7 +13,7 @@ pages:
   script:
       # TODO: once jekyll-redirect-from is fixed, update jekyll
       # @see https://github.com/jekyll/jekyll/issues/6154
-  - gem install jekyll -v 3.4.4
+  - gem install jekyll
   - gem install jekyll-sitemap
   - gem install jekyll-paginate
   - gem install jekyll-feed
