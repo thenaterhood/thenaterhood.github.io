@@ -7,27 +7,7 @@ layout: strata
 
 This website collects information about your visit and what you do while during your visit. This policy describes how information collected from you or your device, or information that you provide, will be handled.
 
-Last Updated 2017/04/25.
-
-## Google Analytics
-
-Like millions of other websites, this website uses a tracking service called Google Analytics for tracking statistical data about visitors.
-
-Google Analytics records data such as:
-* What website you came from to get here
-* How long you visited
-* What kind of device you're using
-* What pages you visited
-* Your general location (as accurate as the city you visited in)
-* Your Internet Service Provider
-* ...and a wide variety of other information
-
-This data is used to understand what pages on this site are visited, what visitors are reading, as well as to improve the site based on common types of devices used (screen size, resolution, etc).
-
-You can view the Google Analytics terms of service (which governs how the data collected by Google Analytics can be used) [here](https://www.google.com/analytics/terms/us.html).
-
-#### Opt Out:
-You can use a browser extension to block this type of tracking, such as [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en), Ghostery, uBlock, or others (this is not an endorsement or an implication of any security or features of the listed plugins).
+Last Updated 2019/12/08.
 
 ## Cookies
 
@@ -35,11 +15,10 @@ Third-party services, such as Google Analytics, used by this site may store some
 
 Data stored in cookies can include anonymised data about your visit such as how you use the site, the URL of the website you came from if you clicked on a link to get to this website, your IP address, and how often and for how long you use the site. Cookies expire after varying periods of time.
 
-Specifically, cookies used by this site are:
-* Google Analytics
+This site does not use cookies.
 
 #### Opt Out:
-Using your browser's options, you are free to delete these cookies or block them entirely at any time. 
+Using your browser's options, you are free to delete cookies or block them entirely at any time.
 
 
 ## Blog Subscriptions (Including Email Addresses)
