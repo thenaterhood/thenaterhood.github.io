@@ -18,10 +18,10 @@ hide-head-image: yes
 <a class="button special" target="_blank" href="https://www.barnesandnoble.com/w/theyre-coming-for-your-internet-nate-levesque/1127552656" rel="noopener">
     Barnes and Noble
 </a>
-<a class="button special" target="_blank" href="https://www.kobo.com/us/en/ebook/they-re-coming-for-your-internet" rel="noopener">
+<a class="button special" target="_blank" href="https://www.kobo.com/us/en/ebook/they-re-coming-for-your-internet-1" rel="noopener">
     Kobo
 </a>
-<a class="button special" target="_blank" href="https://itunes.apple.com/us/book/theyre-coming-for-your-internet/id1318520246" rel="noopener">
+<a class="button special" target="_blank" href="https://books.apple.com/us/book/id1503940789" rel="noopener">
     Apple iBooks
 </a>
 
