@@ -41,7 +41,8 @@
         {% comment %} just wildcarding this
         {% elsif page.tags contains "upstream-neutrality" %}
         {% endcomment %}
-        {% else %}
+        {% elsif page.tags contains "no-book-footer" %}
+        {% else %} 
                 {% assign book_title = 'The Thought Trap' %}
                 {% assign book_url = 'https://book.thenaterhood.com/books/the-thought-trap' %}
                 {% assign book_image = 'https://book.thenaterhood.com/images/cover-thethoughttrap.png' %}

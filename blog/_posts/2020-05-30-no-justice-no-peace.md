@@ -3,6 +3,7 @@ title: No Justice, No Peace
 layout: post
 author: Nate Levesque
 head-image: racism-is-not-patriotism.jpg
+tags: [no-book-footer]
 ---
 
 This month we've had four instances of violence against Black people go viral or almost viral. We saw Amy Cooper [appear to pretend to be under attack](https://www.vox.com/2020/5/26/21270699/amy-cooper-franklin-templeton-christian-central-park) because an unarmed person of color politely asked her to follow the law and leash her dog. We saw [George Floyd](https://www.usatoday.com/story/news/nation/2020/05/26/george-floyd-minneapolis-police-officers-fired-after-public-backlash/5263193002/) die under the knee of an officer who violently arrested him because a store thought a $20 bill looked suspicious. We found out about [Ahmaud Arbery](https://www.vox.com/identities/2020/5/6/21249202/ahmaud-arbery-jogger-killed-in-georgia-video-shooting-grand-jury) who was fatally shot in the back while he was out for a run in February, for no other reason than the color of his skin. And, we heard about [Breonna Taylor](https://www.vox.com/2020/5/13/21257457/breonna-taylor-louisville-shooting-ahmaud-arbery-justiceforbre) who was fatally shot in her apartment earlier this year because police had an outdated address and a no-knock warrant--but never hit the news.
