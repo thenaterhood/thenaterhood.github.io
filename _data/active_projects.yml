@@ -13,7 +13,7 @@
 - title: "Tell Me About Space"
   url: "https://tellmeabout.space"
   version_provider: false
-  description: "A web page that shows a random fact about space every time you visit."
+  description: "A progressive web app that shows a random fact about space every time you visit."
   type: "Javascript"
 
 - title: "TodayInMy.City"

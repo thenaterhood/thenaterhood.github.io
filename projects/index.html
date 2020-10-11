@@ -27,7 +27,7 @@ title: Projects
 
               {% assign version_provider = project.version_provider | strip_newlines %}
               {% if version_provider == "github" %}
-              <script>populate_latest_gh_release("{{ project.title }}");</script>
+              <script>populate_latest_gh_release("{{ project.title }}", "thenaterhood");</script>
               {% endif %}
 	    				<p>{{ project.description }}</p>
 	    			</article>
@@ -52,7 +52,7 @@ title: Projects
 
               {% assign version_provider = project.version_provider | strip_newlines %}
               {% if version_provider == "github" %}
-              <script>populate_latest_gh_release("{{ project.title }}");</script>
+              <script>populate_latest_gh_release("{{ project.title }}", "{{ project.org }}");</script>
               {% endif %}
 	    				<p>{{ project.description }}</p>
 	    			</article>

@@ -1,8 +1,9 @@
 - title: Teleirc
   url: "https://github.com/ritlug/teleirc"
   version_provider: "github"
+  org: "ritlug"
   description: "A chat bot that relays messages between group chats on IRC and Telegram. The bot bridges the chat so group members can participate no matter which ecosystem they prefer to use."
-  type: "NodeJS"
+  type: "Golang"
 
 - title: Linux Kernel
   url: "http://kernel.org"

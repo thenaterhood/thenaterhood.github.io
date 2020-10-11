@@ -1,11 +1,15 @@
-function populate_latest_gh_release(repo_name)
+function populate_latest_gh_release(repo_name, repo_org)
 {
+    if (repo_org == "") {
+         return;
+    }
+
     $.getJSON(
-        "https://api.github.com/repos/thenaterhood/"+repo_name+"/tags",
+        "https://api.github.com/repos/"+repo_org+"/"+repo_name+"/tags",
         function(json){
             var repo_data = {
                 "version": json[0]["name"],
-                "link": "https://github.com/thenaterhood/"+repo_name+"/releases/latest"
+                "link": "https://github.com/"+repo_org+"/"+repo_name+"/releases/latest"
             };
 
             var tag = document.getElementById('ver-'+repo_name);
