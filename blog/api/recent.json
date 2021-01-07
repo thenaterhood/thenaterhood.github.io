@@ -4,7 +4,8 @@
     "posts": [
             {% for post in site.posts limit:50 %}
                 { "title": {{ post.title | jsonify }},
-                  "url": "{{ site.url }}{{ post.url }}"
+                  "url": "{{ site.url }}{{ post.url }}",
+                  "hero": "{{ site.url }}/images/posts/{{ post.head-image }}"
                 } {% unless forloop.last %},{% endunless %}
             {% endfor %}
     ]
