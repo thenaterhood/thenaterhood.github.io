@@ -17,8 +17,9 @@ redirect_to_https: yes
 
 highligher: pygments
 
-gems:
+plugins:
         - jekyll-sitemap
         - jekyll-paginate
         - jekyll-feed
         - jekyll-redirect-from
+        - jekyll-sass-converter

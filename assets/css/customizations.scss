@@ -1,0 +1,32 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+p.featured {
+        font-weight: 600;
+        font-size: 1.3em;
+        line-height: 35px;
+}
+
+#header a {
+        font-size: 1.1em;
+        font-weight: 600;
+        text-transform: uppercase;
+}
+
+h1 {
+        line-height: 1.9em;
+}
+
+h2 {
+        line-height: 1.7em;
+}
+
+
+@media screen and (max-height: 600px) and (min-width: 800px) {
+        #footer {
+                display: none;
+        }
+}
+

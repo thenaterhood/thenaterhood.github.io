@@ -1,42 +1,42 @@
 {% include strata-head.html %}
 <header id="header"
-    {% if page.head-image %}
+        {% if page.head-image %}
         {% if page.hide-head-image %}
         {% else %}
-            {% if page.head-image contains '/' %}
-            style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
-            {% else %}
-            style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('/images/posts/{{page.head-image}}') center top no-repeat; background-size: cover;"
-            {% endif %}
+        {% if page.head-image contains '/' %}
+        style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
+        {% else %}
+        style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('/images/posts/{{page.head-image}}') center top no-repeat; background-size: cover;"
         {% endif %}
-    {% endif %}
+        {% endif %}
+        {% endif %}
         >
 
         <a href="/" class="image avatar"><img src="/images/avatar.jpg" alt="" /></a>
-                                <h1 class="site-header">Nate Levesque
-				</h1>
-                                <span id="nav">
-                                <a href="/">Home</a><br />
-                                <a href="/projects">Projects</a><br />
-                                <a name="scroll-to"></a>
-                                <a href="/blog">Blog</a><br />
-                                <a href="/causes/net-neutrality">Net Neutrality</a><br />
-                                <a href="/books">Books</a><br />
-                                <div class="scroll-down-link">
-                                    <a class="icon fa-angle-double-down" href="#scroll-to"></a>
-                                </div>
-                                </span>
-			</header>
+        <h1 class="site-header">Nate Levesque
+        </h1>
+        <span id="nav">
+                <a href="/">Home</a><br />
+                <a href="/projects">Projects</a><br />
+                <a name="scroll-to"></a>
+                <a href="/blog">Blog</a><br />
+                <a href="/causes/net-neutrality">Net Neutrality</a><br />
+                <a href="/books">Books</a><br />
+                <div class="scroll-down-link">
+                        <a class="icon fa-angle-double-down" href="#scroll-to"></a>
+                </div>
+        </span>
+</header>
 
-	<!-- Main -->
-			<div id="main">
+<!-- Main -->
+<div id="main">
 
-				<!-- One -->
-					<section id="one">
-                                                {{ content }}
-					</section>
+        <!-- One -->
+        <section id="one">
+                {{ content }}
+        </section>
 
 
-    </div>
+</div>
 
 {% include strata-footer.html %}
