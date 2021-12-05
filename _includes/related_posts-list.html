@@ -3,7 +3,7 @@
 <div class="row">
     {% for s in site.related_posts limit: 4 %}
     <article class="col-6 col-12-xsmall work-item">
-        <a class="image fit thumb" href="{{post.url}}">
+        <a class="image fit thumb" href="{{s.url}}">
             <img src="/images/posts/{{s.head-image}}">
         </a>
 
