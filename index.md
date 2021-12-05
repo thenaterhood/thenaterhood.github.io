@@ -22,7 +22,7 @@ _Opinions expressed are mine alone._
 <h3>Featured Articles</h3>
 <div class="row">
 {% for post in site.posts limit: 2 %}
-<article class="6u 12u$(xsmall) work-item">
+<article class="col-6 col-12-xsmall work-item">
 <a class="image fit thumb" href="{{post.url}}">
 <img src="/images/posts/{{post.head-image}}">
 </a>

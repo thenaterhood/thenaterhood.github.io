@@ -2,7 +2,11 @@
 <h2 class="blog-related">More to See</h2>
 <div class="row">
     {% for s in site.related_posts limit: 4 %}
-    <article class="6u 12u$(xsmall) work-item">
+    <article class="col-6 col-12-xsmall work-item">
+        <a class="image fit thumb" href="{{post.url}}">
+            <img src="/images/posts/{{s.head-image}}">
+        </a>
+
         <h3><a href="{{s.url}}">{{s.title}}</a></h3>
     </article>
     {% endfor %}

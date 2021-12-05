@@ -13,6 +13,18 @@ p.featured {
         font-size: 1.1em;
         font-weight: 600;
         text-transform: uppercase;
+        color: #fff;
+}
+
+#header h1 {
+        color: #ffffff;
+        font-size: 1.6em;
+        line-height: 1.75em;
+        margin: 0;
+}
+
+#header {
+        background-size: cover;
 }
 
 h1 {
@@ -22,11 +34,3 @@ h1 {
 h2 {
         line-height: 1.7em;
 }
-
-
-@media screen and (max-height: 600px) and (min-width: 800px) {
-        #footer {
-                display: none;
-        }
-}
-
