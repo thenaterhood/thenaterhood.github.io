@@ -7,4 +7,37 @@
 <script src="/assets/js/browser.min.js"></script>
 <script src="/assets/js/main.js"></script>
 
+<script type="module">
+    import {SimulatedSky} from "/assets/js/modules/SimulatedSky.js";
+
+    const skyElements = document.getElementsByClassName("default-head-image");
+    if (skyElements.length > 0) {
+      const simSky = new SimulatedSky({'autotime': true});
+      const layers = simSky.getLayers_();
+      layers.reverse();
+      let layerCss = '\
+      background-attachment: scroll;\
+      background-position:top left;\
+      background-size: cover !important;\
+      background-repeat: no-repeat;\
+      background:';
+
+      for (let i = 0; i < layers.length; i++) {
+        layerCss = layerCss + 'url("' + layers[i] + '")'
+
+        if (i < layers.length - 1) {
+          layerCss = layerCss + ",";
+        }
+      }
+
+      for (let i = 0; i < skyElements.length; i++) {
+        const skyEl = skyElements[i];
+        // this is not ideal, but there is no other styling
+        // on this element so it works
+        skyEl.setAttribute("style", layerCss);
+      }
+    }
+
+</script>
+
 </body>

@@ -1,14 +1,16 @@
 {% include strata-head.html %}
 <header id="header"
         {% if page.head-image %}
-        {% if page.hide-head-image %}
+          {% if page.hide-head-image %}
+          {% else %}
+            {% if page.head-image contains '/' %}
+              style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
+            {% else %}
+              style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('/images/posts/{{page.head-image}}') center top no-repeat; background-size: cover;"
+            {% endif %}
+          {% endif %}
         {% else %}
-        {% if page.head-image contains '/' %}
-        style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('{{page.head-image}}') center top no-repeat; background-size: cover;"
-        {% else %}
-        style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9) ), url('/images/posts/{{page.head-image}}') center top no-repeat; background-size: cover;"
-        {% endif %}
-        {% endif %}
+          class="default-head-image"
         {% endif %}
         >
 
@@ -30,7 +32,8 @@
 
         </div>
         <!-- Footer -->
-        <footer id="footer">
+        <footer id="footer"
+        >
                 <div class="inner">
                         <ul class="icons">
                                 <li><a href="https://twitter.com/thenaterhood" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
