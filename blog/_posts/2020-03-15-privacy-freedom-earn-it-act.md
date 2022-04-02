@@ -2,7 +2,7 @@
 title: The EARN IT Bill Puts All Of Us In Danger
 layout: post
 author: Nate Levesque
-tags: [encryption, digital-policy, free-speech, privacy]
+tags: [encryption, digital-policy, free-speech, privacy, digital-surveillance]
 head-image: data-key.jpg
 ---
 

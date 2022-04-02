@@ -3,7 +3,7 @@ layout: post
 title: Online Surveillance Briefing
 author: Nate Levesque
 head-image: security-cameras.jpg
-tags: [online-surveillance]
+tags: [digital-surveillance]
 updated: 2017-07-21
 ---
 

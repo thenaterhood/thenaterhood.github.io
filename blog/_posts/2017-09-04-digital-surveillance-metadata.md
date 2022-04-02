@@ -2,7 +2,7 @@
 title: What does "metadata" actually mean?
 layout: post
 author: Nate Levesque
-tags: [online-surveillance]
+tags: [digital-surveillance]
 head-image: binary-crosshairs.jpg
 ---
 
