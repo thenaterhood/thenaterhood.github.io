@@ -10,8 +10,7 @@ redirect_from:
 </header>
 
 <p class="featured">I'm a full-stack software engineer with experience in both firmware and cloud
-development. At work my title is Staff Software Engineer, and I'm building
-cloud-managed wireless access points.</p>
+development.</p>
 
 <p class="featured">I also longboard, run long distance, and enjoy taking pictures of sunsets.
 Sometimes, I write books about digital rights.</p>
