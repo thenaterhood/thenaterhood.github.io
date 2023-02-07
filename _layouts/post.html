@@ -5,7 +5,7 @@
     <section>
 
         <h1>{{ page.title }}</h1>
-        <h4>{{ page.date | date_to_long_string }}</h4>
+        <h4>{{ page.date | date_to_long_string }}<span id="reading-time"></span></h4>
         {% if page.updated %}
             {% assign last_update = page.updated %}
             <h5><em>Updated {{ page.updated | date_to_long_string }}</em></h5>
@@ -29,7 +29,9 @@
         {% endif %}
         <span class="alert alert-info" style="display:none;" id='outdated-post-alert'></span>
 
+        <span id="post-content">
         {{ content }}
+        </span>
 
         {% if page.tags contains "net-neutrality" %}
                 {% assign book_title = 'Please Upgrade For Access' %}
@@ -64,11 +66,12 @@
 <script src="/assets/js/thenaterhood.js"></script>
 <script>
     {% if last_update %}
-    let post_date = Date.parse("{{ last_update | date: "%Y-%m-%d" }}");
+    let post_date = Date.parse('{{ last_update | date: "%Y-%m-%d" }}');
     {% else %}
-    let post_date = Date.parse("{{ page.date | date: "%Y-%m-%d" }}");
+    let post_date = Date.parse('{{ page.date | date: "%Y-%m-%d" }}');
     {% endif %}
-    run_outdated_content_alert('outdated-post-alert', post_date, 'inline-block');
+    populate_outdated_content_alert('outdated-post-alert', post_date, 'inline-block');
+    populate_time_to_read('reading-time', 'post-content', true);
 </script>
 
 {% include strata-footer.html %}
